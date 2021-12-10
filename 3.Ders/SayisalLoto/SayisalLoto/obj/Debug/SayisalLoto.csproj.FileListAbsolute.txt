@@ -1,0 +1,7 @@
+C:\Users\gulyi\Desktop\Ders3\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.exe.config
+C:\Users\gulyi\Desktop\Ders3\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.exe
+C:\Users\gulyi\Desktop\Ders3\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.pdb
+C:\Users\gulyi\Desktop\Ders3\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\Ders3\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\Ders3\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.exe
+C:\Users\gulyi\Desktop\Ders3\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.pdb
