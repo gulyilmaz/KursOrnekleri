@@ -1,0 +1,13 @@
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\sinema\sinema\bin\Debug\sinema.exe.config
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\sinema\sinema\bin\Debug\sinema.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\sinema\sinema\bin\Debug\sinema.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\sinema\sinema\obj\Debug\sinema.csprojResolveAssemblyReference.cache
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\sinema\sinema\obj\Debug\sinema.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\sinema\sinema\obj\Debug\sinema.pdb
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\sinema\sinema\bin\Debug\sinema.exe.config
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\sinema\sinema\bin\Debug\sinema.exe
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\sinema\sinema\bin\Debug\sinema.pdb
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\sinema\sinema\obj\Debug\sinema.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\sinema\sinema\obj\Debug\sinema.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\sinema\sinema\obj\Debug\sinema.exe
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\sinema\sinema\obj\Debug\sinema.pdb
