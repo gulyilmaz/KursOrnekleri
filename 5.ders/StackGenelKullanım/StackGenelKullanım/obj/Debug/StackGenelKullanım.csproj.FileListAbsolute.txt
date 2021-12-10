@@ -1,0 +1,7 @@
+C:\Users\gulyi\Desktop\5.ders\StackGenelKullanım\StackGenelKullanım\bin\Debug\StackGenelKullanım.exe.config
+C:\Users\gulyi\Desktop\5.ders\StackGenelKullanım\StackGenelKullanım\bin\Debug\StackGenelKullanım.exe
+C:\Users\gulyi\Desktop\5.ders\StackGenelKullanım\StackGenelKullanım\bin\Debug\StackGenelKullanım.pdb
+C:\Users\gulyi\Desktop\5.ders\StackGenelKullanım\StackGenelKullanım\obj\Debug\StackGenelKullanım.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\5.ders\StackGenelKullanım\StackGenelKullanım\obj\Debug\StackGenelKullanım.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\5.ders\StackGenelKullanım\StackGenelKullanım\obj\Debug\StackGenelKullanım.exe
+C:\Users\gulyi\Desktop\5.ders\StackGenelKullanım\StackGenelKullanım\obj\Debug\StackGenelKullanım.pdb

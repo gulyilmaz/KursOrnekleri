@@ -1,0 +1,11 @@
+C:\Users\gulyi\Desktop\6.Ders\FormdanformaveriFontrenk\FormdanformaveriFontrenk\bin\Debug\FormdanformaveriFontrenk.exe.config
+C:\Users\gulyi\Desktop\6.Ders\FormdanformaveriFontrenk\FormdanformaveriFontrenk\bin\Debug\FormdanformaveriFontrenk.exe
+C:\Users\gulyi\Desktop\6.Ders\FormdanformaveriFontrenk\FormdanformaveriFontrenk\bin\Debug\FormdanformaveriFontrenk.pdb
+C:\Users\gulyi\Desktop\6.Ders\FormdanformaveriFontrenk\FormdanformaveriFontrenk\obj\Debug\FormdanformaveriFontrenk.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\6.Ders\FormdanformaveriFontrenk\FormdanformaveriFontrenk\obj\Debug\FormdanformaveriFontrenk.AnaForm.resources
+C:\Users\gulyi\Desktop\6.Ders\FormdanformaveriFontrenk\FormdanformaveriFontrenk\obj\Debug\FormdanformaveriFontrenk.HedefForm.resources
+C:\Users\gulyi\Desktop\6.Ders\FormdanformaveriFontrenk\FormdanformaveriFontrenk\obj\Debug\FormdanformaveriFontrenk.Properties.Resources.resources
+C:\Users\gulyi\Desktop\6.Ders\FormdanformaveriFontrenk\FormdanformaveriFontrenk\obj\Debug\FormdanformaveriFontrenk.csproj.GenerateResource.cache
+C:\Users\gulyi\Desktop\6.Ders\FormdanformaveriFontrenk\FormdanformaveriFontrenk\obj\Debug\FormdanformaveriFontrenk.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\6.Ders\FormdanformaveriFontrenk\FormdanformaveriFontrenk\obj\Debug\FormdanformaveriFontrenk.exe
+C:\Users\gulyi\Desktop\6.Ders\FormdanformaveriFontrenk\FormdanformaveriFontrenk\obj\Debug\FormdanformaveriFontrenk.pdb

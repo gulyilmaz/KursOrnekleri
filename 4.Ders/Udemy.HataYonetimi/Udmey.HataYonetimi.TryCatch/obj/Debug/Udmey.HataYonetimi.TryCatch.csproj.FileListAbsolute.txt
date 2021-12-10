@@ -1,0 +1,20 @@
+C:\Users\Cengiz Atilla\Desktop\TryCatch\Udemy.HataYonetimi\Udmey.HataYonetimi.TryCatch\bin\Debug\Udmey.HataYonetimi.TryCatch.exe.config
+C:\Users\Cengiz Atilla\Desktop\TryCatch\Udemy.HataYonetimi\Udmey.HataYonetimi.TryCatch\bin\Debug\Udmey.HataYonetimi.TryCatch.exe
+C:\Users\Cengiz Atilla\Desktop\TryCatch\Udemy.HataYonetimi\Udmey.HataYonetimi.TryCatch\bin\Debug\Udmey.HataYonetimi.TryCatch.pdb
+C:\Users\Cengiz Atilla\Desktop\TryCatch\Udemy.HataYonetimi\Udmey.HataYonetimi.TryCatch\obj\Debug\Udmey.HataYonetimi.TryCatch.csprojAssemblyReference.cache
+C:\Users\Cengiz Atilla\Desktop\TryCatch\Udemy.HataYonetimi\Udmey.HataYonetimi.TryCatch\obj\Debug\Udmey.HataYonetimi.TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Cengiz Atilla\Desktop\TryCatch\Udemy.HataYonetimi\Udmey.HataYonetimi.TryCatch\obj\Debug\Udmey.HataYonetimi.TryCatch.exe
+C:\Users\Cengiz Atilla\Desktop\TryCatch\Udemy.HataYonetimi\Udmey.HataYonetimi.TryCatch\obj\Debug\Udmey.HataYonetimi.TryCatch.pdb
+D:\Masaustu\masaustu\TryCatch\Udemy.HataYonetimi\Udmey.HataYonetimi.TryCatch\bin\Debug\Udmey.HataYonetimi.TryCatch.exe.config
+D:\Masaustu\masaustu\TryCatch\Udemy.HataYonetimi\Udmey.HataYonetimi.TryCatch\bin\Debug\Udmey.HataYonetimi.TryCatch.exe
+D:\Masaustu\masaustu\TryCatch\Udemy.HataYonetimi\Udmey.HataYonetimi.TryCatch\bin\Debug\Udmey.HataYonetimi.TryCatch.pdb
+D:\Masaustu\masaustu\TryCatch\Udemy.HataYonetimi\Udmey.HataYonetimi.TryCatch\obj\Debug\Udmey.HataYonetimi.TryCatch.csprojAssemblyReference.cache
+D:\Masaustu\masaustu\TryCatch\Udemy.HataYonetimi\Udmey.HataYonetimi.TryCatch\obj\Debug\Udmey.HataYonetimi.TryCatch.exe
+D:\Masaustu\masaustu\TryCatch\Udemy.HataYonetimi\Udmey.HataYonetimi.TryCatch\obj\Debug\Udmey.HataYonetimi.TryCatch.pdb
+C:\Users\gulyi\Desktop\4.Ders\Udemy.HataYonetimi\Udmey.HataYonetimi.TryCatch\bin\Debug\Udmey.HataYonetimi.TryCatch.exe.config
+C:\Users\gulyi\Desktop\4.Ders\Udemy.HataYonetimi\Udmey.HataYonetimi.TryCatch\bin\Debug\Udmey.HataYonetimi.TryCatch.exe
+C:\Users\gulyi\Desktop\4.Ders\Udemy.HataYonetimi\Udmey.HataYonetimi.TryCatch\bin\Debug\Udmey.HataYonetimi.TryCatch.pdb
+C:\Users\gulyi\Desktop\4.Ders\Udemy.HataYonetimi\Udmey.HataYonetimi.TryCatch\obj\Debug\Udmey.HataYonetimi.TryCatch.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\4.Ders\Udemy.HataYonetimi\Udmey.HataYonetimi.TryCatch\obj\Debug\Udmey.HataYonetimi.TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\4.Ders\Udemy.HataYonetimi\Udmey.HataYonetimi.TryCatch\obj\Debug\Udmey.HataYonetimi.TryCatch.exe
+C:\Users\gulyi\Desktop\4.Ders\Udemy.HataYonetimi\Udmey.HataYonetimi.TryCatch\obj\Debug\Udmey.HataYonetimi.TryCatch.pdb

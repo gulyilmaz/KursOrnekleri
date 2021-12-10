@@ -1,0 +1,7 @@
+C:\Users\gulyi\source\repos\Ref-Out\Ref-Out\bin\Debug\Ref-Out.exe.config
+C:\Users\gulyi\source\repos\Ref-Out\Ref-Out\bin\Debug\Ref-Out.exe
+C:\Users\gulyi\source\repos\Ref-Out\Ref-Out\bin\Debug\Ref-Out.pdb
+C:\Users\gulyi\source\repos\Ref-Out\Ref-Out\obj\Debug\Ref-Out.csproj.AssemblyReference.cache
+C:\Users\gulyi\source\repos\Ref-Out\Ref-Out\obj\Debug\Ref-Out.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\source\repos\Ref-Out\Ref-Out\obj\Debug\Ref-Out.exe
+C:\Users\gulyi\source\repos\Ref-Out\Ref-Out\obj\Debug\Ref-Out.pdb

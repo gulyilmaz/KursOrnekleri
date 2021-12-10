@@ -1,0 +1,18 @@
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\DateTimeFonksiyonlari\DateTimeFonksiyonlari\bin\Debug\DateTimeFonksiyonlari.exe.config
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\DateTimeFonksiyonlari\DateTimeFonksiyonlari\bin\Debug\DateTimeFonksiyonlari.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\DateTimeFonksiyonlari\DateTimeFonksiyonlari\bin\Debug\DateTimeFonksiyonlari.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\DateTimeFonksiyonlari\DateTimeFonksiyonlari\obj\Debug\DateTimeFonksiyonlari.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\DateTimeFonksiyonlari\DateTimeFonksiyonlari\obj\Debug\DateTimeFonksiyonlari.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\2.C#Intro\DateTimeFonksiyonlari\DateTimeFonksiyonlari\bin\Debug\DateTimeFonksiyonlari.exe.config
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\2.C#Intro\DateTimeFonksiyonlari\DateTimeFonksiyonlari\obj\Debug\DateTimeFonksiyonlari.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\2.C#Intro\DateTimeFonksiyonlari\DateTimeFonksiyonlari\obj\Debug\DateTimeFonksiyonlari.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\2.C#Intro\DateTimeFonksiyonlari\DateTimeFonksiyonlari\bin\Debug\DateTimeFonksiyonlari.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\2.C#Intro\DateTimeFonksiyonlari\DateTimeFonksiyonlari\bin\Debug\DateTimeFonksiyonlari.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\2.C#Intro\DateTimeFonksiyonlari\DateTimeFonksiyonlari\obj\Debug\DateTimeFonksiyonlari.csprojResolveAssemblyReference.cache
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\DateTimeFonksiyonlari\DateTimeFonksiyonlari\bin\Debug\DateTimeFonksiyonlari.exe.config
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\DateTimeFonksiyonlari\DateTimeFonksiyonlari\bin\Debug\DateTimeFonksiyonlari.exe
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\DateTimeFonksiyonlari\DateTimeFonksiyonlari\bin\Debug\DateTimeFonksiyonlari.pdb
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\DateTimeFonksiyonlari\DateTimeFonksiyonlari\obj\Debug\DateTimeFonksiyonlari.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\DateTimeFonksiyonlari\DateTimeFonksiyonlari\obj\Debug\DateTimeFonksiyonlari.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\DateTimeFonksiyonlari\DateTimeFonksiyonlari\obj\Debug\DateTimeFonksiyonlari.exe
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\DateTimeFonksiyonlari\DateTimeFonksiyonlari\obj\Debug\DateTimeFonksiyonlari.pdb

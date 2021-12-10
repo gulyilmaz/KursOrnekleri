@@ -1,0 +1,10 @@
+C:\Users\gulyi\Desktop\5.ders\Koleksiyonlar-Örnek-Form\Koleksiyonlar-Örnek-Form\obj\Debug\Koleksiyonlar-Örnek-Form.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\5.ders\Koleksiyonlar-Örnek-Form\Koleksiyonlar-Örnek-Form\obj\Debug\Koleksiyonlar_Örnek_Form.Form1.resources
+C:\Users\gulyi\Desktop\5.ders\Koleksiyonlar-Örnek-Form\Koleksiyonlar-Örnek-Form\obj\Debug\Koleksiyonlar_Örnek_Form.Properties.Resources.resources
+C:\Users\gulyi\Desktop\5.ders\Koleksiyonlar-Örnek-Form\Koleksiyonlar-Örnek-Form\obj\Debug\Koleksiyonlar-Örnek-Form.csproj.GenerateResource.cache
+C:\Users\gulyi\Desktop\5.ders\Koleksiyonlar-Örnek-Form\Koleksiyonlar-Örnek-Form\obj\Debug\Koleksiyonlar-Örnek-Form.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\5.ders\Koleksiyonlar-Örnek-Form\Koleksiyonlar-Örnek-Form\bin\Debug\Koleksiyonlar-Örnek-Form.exe.config
+C:\Users\gulyi\Desktop\5.ders\Koleksiyonlar-Örnek-Form\Koleksiyonlar-Örnek-Form\bin\Debug\Koleksiyonlar-Örnek-Form.exe
+C:\Users\gulyi\Desktop\5.ders\Koleksiyonlar-Örnek-Form\Koleksiyonlar-Örnek-Form\bin\Debug\Koleksiyonlar-Örnek-Form.pdb
+C:\Users\gulyi\Desktop\5.ders\Koleksiyonlar-Örnek-Form\Koleksiyonlar-Örnek-Form\obj\Debug\Koleksiyonlar-Örnek-Form.exe
+C:\Users\gulyi\Desktop\5.ders\Koleksiyonlar-Örnek-Form\Koleksiyonlar-Örnek-Form\obj\Debug\Koleksiyonlar-Örnek-Form.pdb

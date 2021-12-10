@@ -1,0 +1,7 @@
+C:\Users\gulyi\Desktop\4.Ders\cokboyutlu-multidimensional\cokboyutlu-multidimensional\obj\Debug\cokboyutlu-multidimensional.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\4.Ders\cokboyutlu-multidimensional\cokboyutlu-multidimensional\obj\Debug\cokboyutlu-multidimensional.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\4.Ders\cokboyutlu-multidimensional\cokboyutlu-multidimensional\bin\Debug\cokboyutlu-multidimensional.exe.config
+C:\Users\gulyi\Desktop\4.Ders\cokboyutlu-multidimensional\cokboyutlu-multidimensional\bin\Debug\cokboyutlu-multidimensional.exe
+C:\Users\gulyi\Desktop\4.Ders\cokboyutlu-multidimensional\cokboyutlu-multidimensional\bin\Debug\cokboyutlu-multidimensional.pdb
+C:\Users\gulyi\Desktop\4.Ders\cokboyutlu-multidimensional\cokboyutlu-multidimensional\obj\Debug\cokboyutlu-multidimensional.exe
+C:\Users\gulyi\Desktop\4.Ders\cokboyutlu-multidimensional\cokboyutlu-multidimensional\obj\Debug\cokboyutlu-multidimensional.pdb

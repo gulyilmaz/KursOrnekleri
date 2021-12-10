@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormdanformaveriFontrenk", "FormdanformaveriFontrenk\FormdanformaveriFontrenk.csproj", "{ACFFBFED-2F97-4B00-B58A-96BB7C74B2C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACFFBFED-2F97-4B00-B58A-96BB7C74B2C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACFFBFED-2F97-4B00-B58A-96BB7C74B2C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACFFBFED-2F97-4B00-B58A-96BB7C74B2C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACFFBFED-2F97-4B00-B58A-96BB7C74B2C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04FCFCF2-2CE3-4509-9A69-15AC8880BB06}
+	EndGlobalSection
+EndGlobal

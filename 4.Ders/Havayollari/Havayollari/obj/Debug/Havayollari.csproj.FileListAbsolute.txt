@@ -1,0 +1,7 @@
+C:\Users\gulyi\Desktop\4.Ders\Havayollari\Havayollari\bin\Debug\Havayollari.exe.config
+C:\Users\gulyi\Desktop\4.Ders\Havayollari\Havayollari\bin\Debug\Havayollari.exe
+C:\Users\gulyi\Desktop\4.Ders\Havayollari\Havayollari\bin\Debug\Havayollari.pdb
+C:\Users\gulyi\Desktop\4.Ders\Havayollari\Havayollari\obj\Debug\Havayollari.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\4.Ders\Havayollari\Havayollari\obj\Debug\Havayollari.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\4.Ders\Havayollari\Havayollari\obj\Debug\Havayollari.exe
+C:\Users\gulyi\Desktop\4.Ders\Havayollari\Havayollari\obj\Debug\Havayollari.pdb

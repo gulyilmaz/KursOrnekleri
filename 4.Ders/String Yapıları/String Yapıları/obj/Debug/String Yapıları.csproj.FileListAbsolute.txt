@@ -1,0 +1,22 @@
+c:\users\samilyilmaz\documents\visual studio 2015\Projects\String Yapıları\String Yapıları\bin\Debug\String Yapıları.exe.config
+c:\users\samilyilmaz\documents\visual studio 2015\Projects\String Yapıları\String Yapıları\bin\Debug\String Yapıları.exe
+c:\users\samilyilmaz\documents\visual studio 2015\Projects\String Yapıları\String Yapıları\bin\Debug\String Yapıları.pdb
+c:\users\samilyilmaz\documents\visual studio 2015\Projects\String Yapıları\String Yapıları\obj\Debug\String Yapıları.csprojResolveAssemblyReference.cache
+c:\users\samilyilmaz\documents\visual studio 2015\Projects\String Yapıları\String Yapıları\obj\Debug\String Yapıları.exe
+c:\users\samilyilmaz\documents\visual studio 2015\Projects\String Yapıları\String Yapıları\obj\Debug\String Yapıları.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\String Yapıları\String Yapıları\bin\Debug\String Yapıları.exe.config
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\String Yapıları\String Yapıları\obj\Debug\String Yapıları.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\String Yapıları\String Yapıları\obj\Debug\String Yapıları.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\String Yapıları\String Yapıları\bin\Debug\String Yapıları.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\String Yapıları\String Yapıları\bin\Debug\String Yapıları.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\String Yapıları\String Yapıları\obj\Debug\String Yapıları.csprojResolveAssemblyReference.cache
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\2.C#Intro\String Yapıları\String Yapıları\bin\Debug\String Yapıları.exe.config
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\2.C#Intro\String Yapıları\String Yapıları\obj\Debug\String Yapıları.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\2.C#Intro\String Yapıları\String Yapıları\obj\Debug\String Yapıları.pdb
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\String Yapıları\String Yapıları\bin\Debug\String Yapıları.exe.config
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\String Yapıları\String Yapıları\bin\Debug\String Yapıları.exe
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\String Yapıları\String Yapıları\bin\Debug\String Yapıları.pdb
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\String Yapıları\String Yapıları\obj\Debug\String Yapıları.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\String Yapıları\String Yapıları\obj\Debug\String Yapıları.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\String Yapıları\String Yapıları\obj\Debug\String Yapıları.exe
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\String Yapıları\String Yapıları\obj\Debug\String Yapıları.pdb

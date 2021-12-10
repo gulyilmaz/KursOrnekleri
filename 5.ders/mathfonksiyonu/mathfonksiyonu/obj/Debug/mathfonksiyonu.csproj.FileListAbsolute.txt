@@ -1,0 +1,13 @@
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\mathfonksiyonu\mathfonksiyonu\bin\Debug\mathfonksiyonu.exe.config
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\mathfonksiyonu\mathfonksiyonu\bin\Debug\mathfonksiyonu.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\mathfonksiyonu\mathfonksiyonu\bin\Debug\mathfonksiyonu.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\mathfonksiyonu\mathfonksiyonu\obj\Debug\mathfonksiyonu.csprojResolveAssemblyReference.cache
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\mathfonksiyonu\mathfonksiyonu\obj\Debug\mathfonksiyonu.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\mathfonksiyonu\mathfonksiyonu\obj\Debug\mathfonksiyonu.pdb
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\mathfonksiyonu\mathfonksiyonu\bin\Debug\mathfonksiyonu.exe.config
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\mathfonksiyonu\mathfonksiyonu\bin\Debug\mathfonksiyonu.exe
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\mathfonksiyonu\mathfonksiyonu\bin\Debug\mathfonksiyonu.pdb
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\mathfonksiyonu\mathfonksiyonu\obj\Debug\mathfonksiyonu.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\mathfonksiyonu\mathfonksiyonu\obj\Debug\mathfonksiyonu.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\mathfonksiyonu\mathfonksiyonu\obj\Debug\mathfonksiyonu.exe
+C:\Users\gulyi\Desktop\c#\örnek projeler\2.C#Intro\mathfonksiyonu\mathfonksiyonu\obj\Debug\mathfonksiyonu.pdb

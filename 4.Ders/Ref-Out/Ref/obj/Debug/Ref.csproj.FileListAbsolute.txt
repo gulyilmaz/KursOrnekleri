@@ -1,0 +1,13 @@
+C:\Users\gulyi\source\repos\Ref-Out\Ref\bin\Debug\Ref.exe.config
+C:\Users\gulyi\source\repos\Ref-Out\Ref\bin\Debug\Ref.exe
+C:\Users\gulyi\source\repos\Ref-Out\Ref\bin\Debug\Ref.pdb
+C:\Users\gulyi\source\repos\Ref-Out\Ref\obj\Debug\Ref.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\source\repos\Ref-Out\Ref\obj\Debug\Ref.exe
+C:\Users\gulyi\source\repos\Ref-Out\Ref\obj\Debug\Ref.pdb
+C:\Users\gulyi\Desktop\4.Ders\Ref-Out\Ref\bin\Debug\Ref.exe.config
+C:\Users\gulyi\Desktop\4.Ders\Ref-Out\Ref\bin\Debug\Ref.exe
+C:\Users\gulyi\Desktop\4.Ders\Ref-Out\Ref\bin\Debug\Ref.pdb
+C:\Users\gulyi\Desktop\4.Ders\Ref-Out\Ref\obj\Debug\Ref.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\4.Ders\Ref-Out\Ref\obj\Debug\Ref.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\4.Ders\Ref-Out\Ref\obj\Debug\Ref.exe
+C:\Users\gulyi\Desktop\4.Ders\Ref-Out\Ref\obj\Debug\Ref.pdb

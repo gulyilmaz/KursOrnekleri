@@ -1,0 +1,10 @@
+C:\Users\gulyi\Desktop\5.ders\resimgalerisi\resimgalerisi\bin\Debug\resimgalerisi.exe.config
+C:\Users\gulyi\Desktop\5.ders\resimgalerisi\resimgalerisi\bin\Debug\resimgalerisi.exe
+C:\Users\gulyi\Desktop\5.ders\resimgalerisi\resimgalerisi\bin\Debug\resimgalerisi.pdb
+C:\Users\gulyi\Desktop\5.ders\resimgalerisi\resimgalerisi\obj\Debug\resimgalerisi.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\5.ders\resimgalerisi\resimgalerisi\obj\Debug\resimgalerisi.Form1.resources
+C:\Users\gulyi\Desktop\5.ders\resimgalerisi\resimgalerisi\obj\Debug\resimgalerisi.Properties.Resources.resources
+C:\Users\gulyi\Desktop\5.ders\resimgalerisi\resimgalerisi\obj\Debug\resimgalerisi.csproj.GenerateResource.cache
+C:\Users\gulyi\Desktop\5.ders\resimgalerisi\resimgalerisi\obj\Debug\resimgalerisi.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\5.ders\resimgalerisi\resimgalerisi\obj\Debug\resimgalerisi.exe
+C:\Users\gulyi\Desktop\5.ders\resimgalerisi\resimgalerisi\obj\Debug\resimgalerisi.pdb

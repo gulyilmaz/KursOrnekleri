@@ -1,0 +1,10 @@
+C:\Users\gulyi\Desktop\6.Ders\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.exe.config
+C:\Users\gulyi\Desktop\6.Ders\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.exe
+C:\Users\gulyi\Desktop\6.Ders\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.pdb
+C:\Users\gulyi\Desktop\6.Ders\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\6.Ders\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.Form1.resources
+C:\Users\gulyi\Desktop\6.Ders\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.Properties.Resources.resources
+C:\Users\gulyi\Desktop\6.Ders\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csproj.GenerateResource.cache
+C:\Users\gulyi\Desktop\6.Ders\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\6.Ders\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.exe
+C:\Users\gulyi\Desktop\6.Ders\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.pdb

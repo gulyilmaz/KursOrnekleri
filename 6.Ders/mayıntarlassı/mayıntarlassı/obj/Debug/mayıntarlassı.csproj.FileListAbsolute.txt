@@ -1,0 +1,10 @@
+C:\Users\SEM\source\repos\mayıntarlassı\mayıntarlassı\bin\Debug\mayıntarlassı.exe.config
+C:\Users\SEM\source\repos\mayıntarlassı\mayıntarlassı\bin\Debug\mayıntarlassı.exe
+C:\Users\SEM\source\repos\mayıntarlassı\mayıntarlassı\bin\Debug\mayıntarlassı.pdb
+C:\Users\SEM\source\repos\mayıntarlassı\mayıntarlassı\obj\Debug\mayıntarlassı.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\mayıntarlassı\mayıntarlassı\obj\Debug\mayıntarlassı.Form1.resources
+C:\Users\SEM\source\repos\mayıntarlassı\mayıntarlassı\obj\Debug\mayıntarlassı.Properties.Resources.resources
+C:\Users\SEM\source\repos\mayıntarlassı\mayıntarlassı\obj\Debug\mayıntarlassı.csproj.GenerateResource.cache
+C:\Users\SEM\source\repos\mayıntarlassı\mayıntarlassı\obj\Debug\mayıntarlassı.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\mayıntarlassı\mayıntarlassı\obj\Debug\mayıntarlassı.exe
+C:\Users\SEM\source\repos\mayıntarlassı\mayıntarlassı\obj\Debug\mayıntarlassı.pdb

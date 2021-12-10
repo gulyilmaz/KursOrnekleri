@@ -1,0 +1,10 @@
+C:\Users\gulyi\Desktop\6.Ders\DataGrid\DataGrid\bin\Debug\DataGrid.exe.config
+C:\Users\gulyi\Desktop\6.Ders\DataGrid\DataGrid\bin\Debug\DataGrid.exe
+C:\Users\gulyi\Desktop\6.Ders\DataGrid\DataGrid\bin\Debug\DataGrid.pdb
+C:\Users\gulyi\Desktop\6.Ders\DataGrid\DataGrid\obj\Debug\DataGrid.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\6.Ders\DataGrid\DataGrid\obj\Debug\DataGrid.Form1.resources
+C:\Users\gulyi\Desktop\6.Ders\DataGrid\DataGrid\obj\Debug\DataGrid.Properties.Resources.resources
+C:\Users\gulyi\Desktop\6.Ders\DataGrid\DataGrid\obj\Debug\DataGrid.csproj.GenerateResource.cache
+C:\Users\gulyi\Desktop\6.Ders\DataGrid\DataGrid\obj\Debug\DataGrid.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\6.Ders\DataGrid\DataGrid\obj\Debug\DataGrid.exe
+C:\Users\gulyi\Desktop\6.Ders\DataGrid\DataGrid\obj\Debug\DataGrid.pdb

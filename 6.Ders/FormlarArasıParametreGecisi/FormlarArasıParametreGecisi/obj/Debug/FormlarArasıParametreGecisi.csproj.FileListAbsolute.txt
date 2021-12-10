@@ -1,0 +1,11 @@
+C:\Users\gulyi\Desktop\6.Ders\FormlarArasıParametreGecisi\FormlarArasıParametreGecisi\bin\Debug\FormlarArasıParametreGecisi.exe.config
+C:\Users\gulyi\Desktop\6.Ders\FormlarArasıParametreGecisi\FormlarArasıParametreGecisi\bin\Debug\FormlarArasıParametreGecisi.exe
+C:\Users\gulyi\Desktop\6.Ders\FormlarArasıParametreGecisi\FormlarArasıParametreGecisi\bin\Debug\FormlarArasıParametreGecisi.pdb
+C:\Users\gulyi\Desktop\6.Ders\FormlarArasıParametreGecisi\FormlarArasıParametreGecisi\obj\Debug\FormlarArasıParametreGecisi.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\6.Ders\FormlarArasıParametreGecisi\FormlarArasıParametreGecisi\obj\Debug\FormlarArasıParametreGecisi.AnaForm.resources
+C:\Users\gulyi\Desktop\6.Ders\FormlarArasıParametreGecisi\FormlarArasıParametreGecisi\obj\Debug\FormlarArasıParametreGecisi.Properties.Resources.resources
+C:\Users\gulyi\Desktop\6.Ders\FormlarArasıParametreGecisi\FormlarArasıParametreGecisi\obj\Debug\FormlarArasıParametreGecisi.csproj.GenerateResource.cache
+C:\Users\gulyi\Desktop\6.Ders\FormlarArasıParametreGecisi\FormlarArasıParametreGecisi\obj\Debug\FormlarArasıParametreGecisi.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\6.Ders\FormlarArasıParametreGecisi\FormlarArasıParametreGecisi\obj\Debug\FormlarArasıParametreGecisi.exe
+C:\Users\gulyi\Desktop\6.Ders\FormlarArasıParametreGecisi\FormlarArasıParametreGecisi\obj\Debug\FormlarArasıParametreGecisi.pdb
+C:\Users\gulyi\Desktop\6.Ders\FormlarArasıParametreGecisi\FormlarArasıParametreGecisi\obj\Debug\FormlarArasıParametreGecisi.GelenForm.resources

@@ -1,0 +1,7 @@
+C:\Users\gulyi\Desktop\5.ders\Queuekullanım\Queuekullanım\bin\Debug\Queuekullanım.exe.config
+C:\Users\gulyi\Desktop\5.ders\Queuekullanım\Queuekullanım\bin\Debug\Queuekullanım.exe
+C:\Users\gulyi\Desktop\5.ders\Queuekullanım\Queuekullanım\bin\Debug\Queuekullanım.pdb
+C:\Users\gulyi\Desktop\5.ders\Queuekullanım\Queuekullanım\obj\Debug\Queuekullanım.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\5.ders\Queuekullanım\Queuekullanım\obj\Debug\Queuekullanım.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\5.ders\Queuekullanım\Queuekullanım\obj\Debug\Queuekullanım.exe
+C:\Users\gulyi\Desktop\5.ders\Queuekullanım\Queuekullanım\obj\Debug\Queuekullanım.pdb

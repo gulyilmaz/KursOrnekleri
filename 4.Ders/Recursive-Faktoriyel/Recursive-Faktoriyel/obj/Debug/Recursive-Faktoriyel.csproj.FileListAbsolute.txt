@@ -1,0 +1,7 @@
+C:\Users\gulyi\Desktop\4.Ders\Recursive-Faktoriyel\Recursive-Faktoriyel\bin\Debug\Recursive-Faktoriyel.exe.config
+C:\Users\gulyi\Desktop\4.Ders\Recursive-Faktoriyel\Recursive-Faktoriyel\bin\Debug\Recursive-Faktoriyel.exe
+C:\Users\gulyi\Desktop\4.Ders\Recursive-Faktoriyel\Recursive-Faktoriyel\bin\Debug\Recursive-Faktoriyel.pdb
+C:\Users\gulyi\Desktop\4.Ders\Recursive-Faktoriyel\Recursive-Faktoriyel\obj\Debug\Recursive-Faktoriyel.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\4.Ders\Recursive-Faktoriyel\Recursive-Faktoriyel\obj\Debug\Recursive-Faktoriyel.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\4.Ders\Recursive-Faktoriyel\Recursive-Faktoriyel\obj\Debug\Recursive-Faktoriyel.exe
+C:\Users\gulyi\Desktop\4.Ders\Recursive-Faktoriyel\Recursive-Faktoriyel\obj\Debug\Recursive-Faktoriyel.pdb

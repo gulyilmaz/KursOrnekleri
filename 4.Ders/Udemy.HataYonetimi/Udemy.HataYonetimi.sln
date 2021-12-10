@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udmey.HataYonetimi.TryCatch", "Udmey.HataYonetimi.TryCatch\Udmey.HataYonetimi.TryCatch.csproj", "{C71B2751-0865-4FBC-81D5-069E6EE822C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C71B2751-0865-4FBC-81D5-069E6EE822C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71B2751-0865-4FBC-81D5-069E6EE822C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71B2751-0865-4FBC-81D5-069E6EE822C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71B2751-0865-4FBC-81D5-069E6EE822C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {376519BB-7D11-4CAB-A171-A95BB2C03A90}
+	EndGlobalSection
+EndGlobal

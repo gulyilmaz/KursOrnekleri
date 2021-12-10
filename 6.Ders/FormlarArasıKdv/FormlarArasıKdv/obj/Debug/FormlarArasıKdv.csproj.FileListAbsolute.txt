@@ -1,0 +1,11 @@
+C:\Users\gulyi\Desktop\6.Ders\FormlarArasıKdv\FormlarArasıKdv\bin\Debug\FormlarArasıKdv.exe.config
+C:\Users\gulyi\Desktop\6.Ders\FormlarArasıKdv\FormlarArasıKdv\bin\Debug\FormlarArasıKdv.exe
+C:\Users\gulyi\Desktop\6.Ders\FormlarArasıKdv\FormlarArasıKdv\bin\Debug\FormlarArasıKdv.pdb
+C:\Users\gulyi\Desktop\6.Ders\FormlarArasıKdv\FormlarArasıKdv\obj\Debug\FormlarArasıKdv.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\6.Ders\FormlarArasıKdv\FormlarArasıKdv\obj\Debug\FormlarArasıKdv.AnaForm.resources
+C:\Users\gulyi\Desktop\6.Ders\FormlarArasıKdv\FormlarArasıKdv\obj\Debug\FormlarArasıKdv.HedefForm.resources
+C:\Users\gulyi\Desktop\6.Ders\FormlarArasıKdv\FormlarArasıKdv\obj\Debug\FormlarArasıKdv.Properties.Resources.resources
+C:\Users\gulyi\Desktop\6.Ders\FormlarArasıKdv\FormlarArasıKdv\obj\Debug\FormlarArasıKdv.csproj.GenerateResource.cache
+C:\Users\gulyi\Desktop\6.Ders\FormlarArasıKdv\FormlarArasıKdv\obj\Debug\FormlarArasıKdv.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\6.Ders\FormlarArasıKdv\FormlarArasıKdv\obj\Debug\FormlarArasıKdv.exe
+C:\Users\gulyi\Desktop\6.Ders\FormlarArasıKdv\FormlarArasıKdv\obj\Debug\FormlarArasıKdv.pdb

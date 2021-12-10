@@ -1,0 +1,11 @@
+C:\Users\gulyi\Desktop\6.Ders\Ortalama-dataGrid\Ortalama-dataGrid\bin\Debug\Ortalama-dataGrid.exe.config
+C:\Users\gulyi\Desktop\6.Ders\Ortalama-dataGrid\Ortalama-dataGrid\bin\Debug\Ortalama-dataGrid.exe
+C:\Users\gulyi\Desktop\6.Ders\Ortalama-dataGrid\Ortalama-dataGrid\bin\Debug\Ortalama-dataGrid.pdb
+C:\Users\gulyi\Desktop\6.Ders\Ortalama-dataGrid\Ortalama-dataGrid\obj\Debug\Ortalama-dataGrid.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\6.Ders\Ortalama-dataGrid\Ortalama-dataGrid\obj\Debug\Ortalama_dataGrid.AnaForm.resources
+C:\Users\gulyi\Desktop\6.Ders\Ortalama-dataGrid\Ortalama-dataGrid\obj\Debug\Ortalama_dataGrid.hedefForm.resources
+C:\Users\gulyi\Desktop\6.Ders\Ortalama-dataGrid\Ortalama-dataGrid\obj\Debug\Ortalama_dataGrid.Properties.Resources.resources
+C:\Users\gulyi\Desktop\6.Ders\Ortalama-dataGrid\Ortalama-dataGrid\obj\Debug\Ortalama-dataGrid.csproj.GenerateResource.cache
+C:\Users\gulyi\Desktop\6.Ders\Ortalama-dataGrid\Ortalama-dataGrid\obj\Debug\Ortalama-dataGrid.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\6.Ders\Ortalama-dataGrid\Ortalama-dataGrid\obj\Debug\Ortalama-dataGrid.exe
+C:\Users\gulyi\Desktop\6.Ders\Ortalama-dataGrid\Ortalama-dataGrid\obj\Debug\Ortalama-dataGrid.pdb

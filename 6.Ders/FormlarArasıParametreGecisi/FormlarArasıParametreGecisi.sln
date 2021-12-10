@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormlarArasıParametreGecisi", "FormlarArasıParametreGecisi\FormlarArasıParametreGecisi.csproj", "{6F0968B6-40FB-4B20-972A-A3CAE70A5CA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Yontem", "2.Yontem\2.Yontem.csproj", "{AC47BD7C-9D23-4F72-98C3-6E0FDD40B3DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F0968B6-40FB-4B20-972A-A3CAE70A5CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F0968B6-40FB-4B20-972A-A3CAE70A5CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F0968B6-40FB-4B20-972A-A3CAE70A5CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F0968B6-40FB-4B20-972A-A3CAE70A5CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC47BD7C-9D23-4F72-98C3-6E0FDD40B3DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC47BD7C-9D23-4F72-98C3-6E0FDD40B3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC47BD7C-9D23-4F72-98C3-6E0FDD40B3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC47BD7C-9D23-4F72-98C3-6E0FDD40B3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1934A75-CC17-4FD6-8526-BC639A898C3C}
+	EndGlobalSection
+EndGlobal
