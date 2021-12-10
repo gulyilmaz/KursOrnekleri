@@ -1,0 +1,10 @@
+C:\Users\gulyi\source\repos\ForDongusuveBreak\ForDongusuveBreak\bin\Debug\ForDongusuveBreak.exe.config
+C:\Users\gulyi\source\repos\ForDongusuveBreak\ForDongusuveBreak\bin\Debug\ForDongusuveBreak.exe
+C:\Users\gulyi\source\repos\ForDongusuveBreak\ForDongusuveBreak\bin\Debug\ForDongusuveBreak.pdb
+C:\Users\gulyi\source\repos\ForDongusuveBreak\ForDongusuveBreak\obj\Debug\ForDongusuveBreak.csproj.AssemblyReference.cache
+C:\Users\gulyi\source\repos\ForDongusuveBreak\ForDongusuveBreak\obj\Debug\ForDongusuveBreak.Form1.resources
+C:\Users\gulyi\source\repos\ForDongusuveBreak\ForDongusuveBreak\obj\Debug\ForDongusuveBreak.Properties.Resources.resources
+C:\Users\gulyi\source\repos\ForDongusuveBreak\ForDongusuveBreak\obj\Debug\ForDongusuveBreak.csproj.GenerateResource.cache
+C:\Users\gulyi\source\repos\ForDongusuveBreak\ForDongusuveBreak\obj\Debug\ForDongusuveBreak.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\source\repos\ForDongusuveBreak\ForDongusuveBreak\obj\Debug\ForDongusuveBreak.exe
+C:\Users\gulyi\source\repos\ForDongusuveBreak\ForDongusuveBreak\obj\Debug\ForDongusuveBreak.pdb

@@ -1,0 +1,6 @@
+T:\Programlar\Yazar\9)C#60\Projeler\06_06_Console5tenBuyukmu\06_06_Console5tenBuyukmu\bin\Debug\06_06_Console5tenBuyukmu.exe.config
+T:\Programlar\Yazar\9)C#60\Projeler\06_06_Console5tenBuyukmu\06_06_Console5tenBuyukmu\bin\Debug\06_06_Console5tenBuyukmu.exe
+T:\Programlar\Yazar\9)C#60\Projeler\06_06_Console5tenBuyukmu\06_06_Console5tenBuyukmu\bin\Debug\06_06_Console5tenBuyukmu.pdb
+T:\Programlar\Yazar\9)C#60\Projeler\06_06_Console5tenBuyukmu\06_06_Console5tenBuyukmu\obj\Debug\06_06_Console5tenBuyukmu.csprojResolveAssemblyReference.cache
+T:\Programlar\Yazar\9)C#60\Projeler\06_06_Console5tenBuyukmu\06_06_Console5tenBuyukmu\obj\Debug\06_06_Console5tenBuyukmu.exe
+T:\Programlar\Yazar\9)C#60\Projeler\06_06_Console5tenBuyukmu\06_06_Console5tenBuyukmu\obj\Debug\06_06_Console5tenBuyukmu.pdb

@@ -1,0 +1,9 @@
+C:\Users\gulyi\source\repos\ForDongusuveBreak\FormaDonguileComboboxEkleme\bin\Debug\FormaDonguileComboboxEkleme.exe.config
+C:\Users\gulyi\source\repos\ForDongusuveBreak\FormaDonguileComboboxEkleme\bin\Debug\FormaDonguileComboboxEkleme.exe
+C:\Users\gulyi\source\repos\ForDongusuveBreak\FormaDonguileComboboxEkleme\bin\Debug\FormaDonguileComboboxEkleme.pdb
+C:\Users\gulyi\source\repos\ForDongusuveBreak\FormaDonguileComboboxEkleme\obj\Debug\FormaDonguileComboboxEkleme.Form1.resources
+C:\Users\gulyi\source\repos\ForDongusuveBreak\FormaDonguileComboboxEkleme\obj\Debug\FormaDonguileComboboxEkleme.Properties.Resources.resources
+C:\Users\gulyi\source\repos\ForDongusuveBreak\FormaDonguileComboboxEkleme\obj\Debug\FormaDonguileComboboxEkleme.csproj.GenerateResource.cache
+C:\Users\gulyi\source\repos\ForDongusuveBreak\FormaDonguileComboboxEkleme\obj\Debug\FormaDonguileComboboxEkleme.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\source\repos\ForDongusuveBreak\FormaDonguileComboboxEkleme\obj\Debug\FormaDonguileComboboxEkleme.exe
+C:\Users\gulyi\source\repos\ForDongusuveBreak\FormaDonguileComboboxEkleme\obj\Debug\FormaDonguileComboboxEkleme.pdb

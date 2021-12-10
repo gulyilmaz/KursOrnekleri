@@ -1,0 +1,14 @@
+C:\Users\gulyi\source\repos\Donguler\Donguler\bin\Debug\Donguler.exe.config
+C:\Users\gulyi\source\repos\Donguler\Donguler\bin\Debug\Donguler.exe
+C:\Users\gulyi\source\repos\Donguler\Donguler\bin\Debug\Donguler.pdb
+C:\Users\gulyi\source\repos\Donguler\Donguler\obj\Debug\Donguler.csproj.AssemblyReference.cache
+C:\Users\gulyi\source\repos\Donguler\Donguler\obj\Debug\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\source\repos\Donguler\Donguler\obj\Debug\Donguler.exe
+C:\Users\gulyi\source\repos\Donguler\Donguler\obj\Debug\Donguler.pdb
+C:\Users\gulyi\Desktop\2.Ders\Donguler\Donguler\bin\Debug\Donguler.exe.config
+C:\Users\gulyi\Desktop\2.Ders\Donguler\Donguler\bin\Debug\Donguler.exe
+C:\Users\gulyi\Desktop\2.Ders\Donguler\Donguler\bin\Debug\Donguler.pdb
+C:\Users\gulyi\Desktop\2.Ders\Donguler\Donguler\obj\Debug\Donguler.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\2.Ders\Donguler\Donguler\obj\Debug\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\2.Ders\Donguler\Donguler\obj\Debug\Donguler.exe
+C:\Users\gulyi\Desktop\2.Ders\Donguler\Donguler\obj\Debug\Donguler.pdb

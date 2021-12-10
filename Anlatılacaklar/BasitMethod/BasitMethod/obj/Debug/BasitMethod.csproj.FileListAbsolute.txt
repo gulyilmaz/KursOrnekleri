@@ -1,0 +1,9 @@
+C:\Users\gulyi\source\repos\BasitMethod\BasitMethod\obj\Debug\BasitMethod.csproj.AssemblyReference.cache
+C:\Users\gulyi\source\repos\BasitMethod\BasitMethod\obj\Debug\BasitMethod.Form1.resources
+C:\Users\gulyi\source\repos\BasitMethod\BasitMethod\obj\Debug\BasitMethod.csproj.GenerateResource.cache
+C:\Users\gulyi\source\repos\BasitMethod\BasitMethod\obj\Debug\BasitMethod.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\source\repos\BasitMethod\BasitMethod\bin\Debug\BasitMethod.exe.config
+C:\Users\gulyi\source\repos\BasitMethod\BasitMethod\bin\Debug\BasitMethod.exe
+C:\Users\gulyi\source\repos\BasitMethod\BasitMethod\bin\Debug\BasitMethod.pdb
+C:\Users\gulyi\source\repos\BasitMethod\BasitMethod\obj\Debug\BasitMethod.exe
+C:\Users\gulyi\source\repos\BasitMethod\BasitMethod\obj\Debug\BasitMethod.pdb

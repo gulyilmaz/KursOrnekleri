@@ -1,0 +1,14 @@
+C:\Users\gulyi\source\repos\Diziler\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\gulyi\source\repos\Diziler\Diziler\bin\Debug\Diziler.exe
+C:\Users\gulyi\source\repos\Diziler\Diziler\bin\Debug\Diziler.pdb
+C:\Users\gulyi\source\repos\Diziler\Diziler\obj\Debug\Diziler.csproj.AssemblyReference.cache
+C:\Users\gulyi\source\repos\Diziler\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\source\repos\Diziler\Diziler\obj\Debug\Diziler.exe
+C:\Users\gulyi\source\repos\Diziler\Diziler\obj\Debug\Diziler.pdb
+C:\Users\gulyi\Desktop\2.Ders\Diziler\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\gulyi\Desktop\2.Ders\Diziler\Diziler\bin\Debug\Diziler.exe
+C:\Users\gulyi\Desktop\2.Ders\Diziler\Diziler\bin\Debug\Diziler.pdb
+C:\Users\gulyi\Desktop\2.Ders\Diziler\Diziler\obj\Debug\Diziler.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\2.Ders\Diziler\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\2.Ders\Diziler\Diziler\obj\Debug\Diziler.exe
+C:\Users\gulyi\Desktop\2.Ders\Diziler\Diziler\obj\Debug\Diziler.pdb

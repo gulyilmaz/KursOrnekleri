@@ -1,0 +1,19 @@
+T:\Programlar\Yazar\9)C#60\Projeler\07_01_ForBreak\07_01_ForBreak\bin\Debug\07_01_ForBreak.exe.config
+T:\Programlar\Yazar\9)C#60\Projeler\07_01_ForBreak\07_01_ForBreak\bin\Debug\07_01_ForBreak.exe
+T:\Programlar\Yazar\9)C#60\Projeler\07_01_ForBreak\07_01_ForBreak\bin\Debug\07_01_ForBreak.pdb
+T:\Programlar\Yazar\9)C#60\Projeler\07_01_ForBreak\07_01_ForBreak\obj\Debug\07_01_ForBreak.csprojResolveAssemblyReference.cache
+T:\Programlar\Yazar\9)C#60\Projeler\07_01_ForBreak\07_01_ForBreak\obj\Debug\_07_01_ForBreak.Form1.resources
+T:\Programlar\Yazar\9)C#60\Projeler\07_01_ForBreak\07_01_ForBreak\obj\Debug\_07_01_ForBreak.Properties.Resources.resources
+T:\Programlar\Yazar\9)C#60\Projeler\07_01_ForBreak\07_01_ForBreak\obj\Debug\07_01_ForBreak.csproj.GenerateResource.Cache
+T:\Programlar\Yazar\9)C#60\Projeler\07_01_ForBreak\07_01_ForBreak\obj\Debug\07_01_ForBreak.exe
+T:\Programlar\Yazar\9)C#60\Projeler\07_01_ForBreak\07_01_ForBreak\obj\Debug\07_01_ForBreak.pdb
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\07_01_ForBreak\07_01_ForBreak\bin\Debug\07_01_ForBreak.exe.config
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\07_01_ForBreak\07_01_ForBreak\bin\Debug\07_01_ForBreak.exe
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\07_01_ForBreak\07_01_ForBreak\bin\Debug\07_01_ForBreak.pdb
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\07_01_ForBreak\07_01_ForBreak\obj\Debug\07_01_ForBreak.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\07_01_ForBreak\07_01_ForBreak\obj\Debug\_07_01_ForBreak.Form1.resources
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\07_01_ForBreak\07_01_ForBreak\obj\Debug\_07_01_ForBreak.Properties.Resources.resources
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\07_01_ForBreak\07_01_ForBreak\obj\Debug\07_01_ForBreak.csproj.GenerateResource.cache
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\07_01_ForBreak\07_01_ForBreak\obj\Debug\07_01_ForBreak.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\07_01_ForBreak\07_01_ForBreak\obj\Debug\07_01_ForBreak.exe
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\07_01_ForBreak\07_01_ForBreak\obj\Debug\07_01_ForBreak.pdb

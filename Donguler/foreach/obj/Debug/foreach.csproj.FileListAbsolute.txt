@@ -1,0 +1,14 @@
+C:\Users\gulyi\source\repos\Donguler\foreach\bin\Debug\@foreach.exe.config
+C:\Users\gulyi\source\repos\Donguler\foreach\bin\Debug\@foreach.exe
+C:\Users\gulyi\source\repos\Donguler\foreach\bin\Debug\@foreach.pdb
+C:\Users\gulyi\source\repos\Donguler\foreach\obj\Debug\foreach.csproj.AssemblyReference.cache
+C:\Users\gulyi\source\repos\Donguler\foreach\obj\Debug\foreach.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\source\repos\Donguler\foreach\obj\Debug\@foreach.exe
+C:\Users\gulyi\source\repos\Donguler\foreach\obj\Debug\@foreach.pdb
+C:\Users\gulyi\Desktop\2.Ders\Donguler\foreach\bin\Debug\@foreach.exe.config
+C:\Users\gulyi\Desktop\2.Ders\Donguler\foreach\bin\Debug\@foreach.exe
+C:\Users\gulyi\Desktop\2.Ders\Donguler\foreach\bin\Debug\@foreach.pdb
+C:\Users\gulyi\Desktop\2.Ders\Donguler\foreach\obj\Debug\foreach.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\2.Ders\Donguler\foreach\obj\Debug\foreach.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\2.Ders\Donguler\foreach\obj\Debug\@foreach.exe
+C:\Users\gulyi\Desktop\2.Ders\Donguler\foreach\obj\Debug\@foreach.pdb

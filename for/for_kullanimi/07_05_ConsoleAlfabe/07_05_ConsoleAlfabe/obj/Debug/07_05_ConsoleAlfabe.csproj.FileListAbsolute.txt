@@ -1,0 +1,6 @@
+T:\Programlar\Yazar\9)C#60\Projeler\07_05_ConsoleAlfabe\07_05_ConsoleAlfabe\bin\Debug\07_05_ConsoleAlfabe.exe.config
+T:\Programlar\Yazar\9)C#60\Projeler\07_05_ConsoleAlfabe\07_05_ConsoleAlfabe\bin\Debug\07_05_ConsoleAlfabe.exe
+T:\Programlar\Yazar\9)C#60\Projeler\07_05_ConsoleAlfabe\07_05_ConsoleAlfabe\bin\Debug\07_05_ConsoleAlfabe.pdb
+T:\Programlar\Yazar\9)C#60\Projeler\07_05_ConsoleAlfabe\07_05_ConsoleAlfabe\obj\Debug\07_05_ConsoleAlfabe.csprojResolveAssemblyReference.cache
+T:\Programlar\Yazar\9)C#60\Projeler\07_05_ConsoleAlfabe\07_05_ConsoleAlfabe\obj\Debug\07_05_ConsoleAlfabe.exe
+T:\Programlar\Yazar\9)C#60\Projeler\07_05_ConsoleAlfabe\07_05_ConsoleAlfabe\obj\Debug\07_05_ConsoleAlfabe.pdb

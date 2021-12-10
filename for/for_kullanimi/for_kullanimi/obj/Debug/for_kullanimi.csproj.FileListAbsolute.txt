@@ -1,0 +1,14 @@
+C:\Users\gulyi\source\repos\for_kullanimi\for_kullanimi\bin\Debug\for_kullanimi.exe.config
+C:\Users\gulyi\source\repos\for_kullanimi\for_kullanimi\bin\Debug\for_kullanimi.exe
+C:\Users\gulyi\source\repos\for_kullanimi\for_kullanimi\bin\Debug\for_kullanimi.pdb
+C:\Users\gulyi\source\repos\for_kullanimi\for_kullanimi\obj\Debug\for_kullanimi.csproj.AssemblyReference.cache
+C:\Users\gulyi\source\repos\for_kullanimi\for_kullanimi\obj\Debug\for_kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\source\repos\for_kullanimi\for_kullanimi\obj\Debug\for_kullanimi.exe
+C:\Users\gulyi\source\repos\for_kullanimi\for_kullanimi\obj\Debug\for_kullanimi.pdb
+C:\Users\gulyi\Desktop\2.Ders\for\for_kullanimi\for_kullanimi\bin\Debug\for_kullanimi.exe.config
+C:\Users\gulyi\Desktop\2.Ders\for\for_kullanimi\for_kullanimi\bin\Debug\for_kullanimi.exe
+C:\Users\gulyi\Desktop\2.Ders\for\for_kullanimi\for_kullanimi\bin\Debug\for_kullanimi.pdb
+C:\Users\gulyi\Desktop\2.Ders\for\for_kullanimi\for_kullanimi\obj\Debug\for_kullanimi.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\2.Ders\for\for_kullanimi\for_kullanimi\obj\Debug\for_kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\2.Ders\for\for_kullanimi\for_kullanimi\obj\Debug\for_kullanimi.exe
+C:\Users\gulyi\Desktop\2.Ders\for\for_kullanimi\for_kullanimi\obj\Debug\for_kullanimi.pdb

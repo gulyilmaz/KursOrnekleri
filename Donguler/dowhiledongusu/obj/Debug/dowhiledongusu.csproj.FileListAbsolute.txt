@@ -1,0 +1,14 @@
+C:\Users\gulyi\source\repos\Donguler\dowhiledongusu\bin\Debug\dowhiledongusu.exe.config
+C:\Users\gulyi\source\repos\Donguler\dowhiledongusu\bin\Debug\dowhiledongusu.exe
+C:\Users\gulyi\source\repos\Donguler\dowhiledongusu\bin\Debug\dowhiledongusu.pdb
+C:\Users\gulyi\source\repos\Donguler\dowhiledongusu\obj\Debug\dowhiledongusu.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\source\repos\Donguler\dowhiledongusu\obj\Debug\dowhiledongusu.exe
+C:\Users\gulyi\source\repos\Donguler\dowhiledongusu\obj\Debug\dowhiledongusu.pdb
+C:\Users\gulyi\source\repos\Donguler\dowhiledongusu\obj\Debug\dowhiledongusu.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\2.Ders\Donguler\dowhiledongusu\bin\Debug\dowhiledongusu.exe.config
+C:\Users\gulyi\Desktop\2.Ders\Donguler\dowhiledongusu\bin\Debug\dowhiledongusu.exe
+C:\Users\gulyi\Desktop\2.Ders\Donguler\dowhiledongusu\bin\Debug\dowhiledongusu.pdb
+C:\Users\gulyi\Desktop\2.Ders\Donguler\dowhiledongusu\obj\Debug\dowhiledongusu.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\2.Ders\Donguler\dowhiledongusu\obj\Debug\dowhiledongusu.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\2.Ders\Donguler\dowhiledongusu\obj\Debug\dowhiledongusu.exe
+C:\Users\gulyi\Desktop\2.Ders\Donguler\dowhiledongusu\obj\Debug\dowhiledongusu.pdb

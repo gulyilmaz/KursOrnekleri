@@ -1,0 +1,14 @@
+C:\Users\gulyi\source\repos\switchcasewhen\switchcasewhen\bin\Debug\switchcasewhen.exe.config
+C:\Users\gulyi\source\repos\switchcasewhen\switchcasewhen\bin\Debug\switchcasewhen.exe
+C:\Users\gulyi\source\repos\switchcasewhen\switchcasewhen\bin\Debug\switchcasewhen.pdb
+C:\Users\gulyi\source\repos\switchcasewhen\switchcasewhen\obj\Debug\switchcasewhen.csproj.AssemblyReference.cache
+C:\Users\gulyi\source\repos\switchcasewhen\switchcasewhen\obj\Debug\switchcasewhen.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\source\repos\switchcasewhen\switchcasewhen\obj\Debug\switchcasewhen.exe
+C:\Users\gulyi\source\repos\switchcasewhen\switchcasewhen\obj\Debug\switchcasewhen.pdb
+C:\Users\gulyi\Desktop\2.Ders\Anlatılacaklar\switchcasewhen\switchcasewhen\bin\Debug\switchcasewhen.exe.config
+C:\Users\gulyi\Desktop\2.Ders\Anlatılacaklar\switchcasewhen\switchcasewhen\bin\Debug\switchcasewhen.exe
+C:\Users\gulyi\Desktop\2.Ders\Anlatılacaklar\switchcasewhen\switchcasewhen\bin\Debug\switchcasewhen.pdb
+C:\Users\gulyi\Desktop\2.Ders\Anlatılacaklar\switchcasewhen\switchcasewhen\obj\Debug\switchcasewhen.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\2.Ders\Anlatılacaklar\switchcasewhen\switchcasewhen\obj\Debug\switchcasewhen.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\2.Ders\Anlatılacaklar\switchcasewhen\switchcasewhen\obj\Debug\switchcasewhen.exe
+C:\Users\gulyi\Desktop\2.Ders\Anlatılacaklar\switchcasewhen\switchcasewhen\obj\Debug\switchcasewhen.pdb

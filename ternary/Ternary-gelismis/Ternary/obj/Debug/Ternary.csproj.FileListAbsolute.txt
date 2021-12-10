@@ -1,0 +1,10 @@
+C:\Users\gulyi\source\repos\Ternary\Ternary\bin\Debug\Ternary.exe.config
+C:\Users\gulyi\source\repos\Ternary\Ternary\bin\Debug\Ternary.exe
+C:\Users\gulyi\source\repos\Ternary\Ternary\bin\Debug\Ternary.pdb
+C:\Users\gulyi\source\repos\Ternary\Ternary\obj\Debug\Ternary.csproj.AssemblyReference.cache
+C:\Users\gulyi\source\repos\Ternary\Ternary\obj\Debug\Ternary.Form1.resources
+C:\Users\gulyi\source\repos\Ternary\Ternary\obj\Debug\Ternary.Properties.Resources.resources
+C:\Users\gulyi\source\repos\Ternary\Ternary\obj\Debug\Ternary.csproj.GenerateResource.cache
+C:\Users\gulyi\source\repos\Ternary\Ternary\obj\Debug\Ternary.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\source\repos\Ternary\Ternary\obj\Debug\Ternary.exe
+C:\Users\gulyi\source\repos\Ternary\Ternary\obj\Debug\Ternary.pdb

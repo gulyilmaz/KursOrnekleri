@@ -1,0 +1,6 @@
+T:\Programlar\Yazar\9)C#60\Projeler\07_07_ConsoleDortgenCiz\07_07_ConsoleDortgenCiz\bin\Debug\07_07_ConsoleDortgenCiz.exe.config
+T:\Programlar\Yazar\9)C#60\Projeler\07_07_ConsoleDortgenCiz\07_07_ConsoleDortgenCiz\bin\Debug\07_07_ConsoleDortgenCiz.exe
+T:\Programlar\Yazar\9)C#60\Projeler\07_07_ConsoleDortgenCiz\07_07_ConsoleDortgenCiz\bin\Debug\07_07_ConsoleDortgenCiz.pdb
+T:\Programlar\Yazar\9)C#60\Projeler\07_07_ConsoleDortgenCiz\07_07_ConsoleDortgenCiz\obj\Debug\07_07_ConsoleDortgenCiz.csprojResolveAssemblyReference.cache
+T:\Programlar\Yazar\9)C#60\Projeler\07_07_ConsoleDortgenCiz\07_07_ConsoleDortgenCiz\obj\Debug\07_07_ConsoleDortgenCiz.exe
+T:\Programlar\Yazar\9)C#60\Projeler\07_07_ConsoleDortgenCiz\07_07_ConsoleDortgenCiz\obj\Debug\07_07_ConsoleDortgenCiz.pdb

@@ -1,0 +1,19 @@
+T:\Programlar\Yazar\9)C#60\Projeler\07_02_DonguIleComboBox\07_02_DonguIleComboBox\bin\Debug\07_02_DonguIleComboBox.exe.config
+T:\Programlar\Yazar\9)C#60\Projeler\07_02_DonguIleComboBox\07_02_DonguIleComboBox\obj\Debug\07_02_DonguIleComboBox.csprojResolveAssemblyReference.cache
+T:\Programlar\Yazar\9)C#60\Projeler\07_02_DonguIleComboBox\07_02_DonguIleComboBox\obj\Debug\_07_02_DonguIleComboBox.Form1.resources
+T:\Programlar\Yazar\9)C#60\Projeler\07_02_DonguIleComboBox\07_02_DonguIleComboBox\obj\Debug\_07_02_DonguIleComboBox.Properties.Resources.resources
+T:\Programlar\Yazar\9)C#60\Projeler\07_02_DonguIleComboBox\07_02_DonguIleComboBox\obj\Debug\07_02_DonguIleComboBox.csproj.GenerateResource.Cache
+T:\Programlar\Yazar\9)C#60\Projeler\07_02_DonguIleComboBox\07_02_DonguIleComboBox\bin\Debug\07_02_DonguIleComboBox.exe
+T:\Programlar\Yazar\9)C#60\Projeler\07_02_DonguIleComboBox\07_02_DonguIleComboBox\bin\Debug\07_02_DonguIleComboBox.pdb
+T:\Programlar\Yazar\9)C#60\Projeler\07_02_DonguIleComboBox\07_02_DonguIleComboBox\obj\Debug\07_02_DonguIleComboBox.exe
+T:\Programlar\Yazar\9)C#60\Projeler\07_02_DonguIleComboBox\07_02_DonguIleComboBox\obj\Debug\07_02_DonguIleComboBox.pdb
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\07_02_DonguIleComboBox\07_02_DonguIleComboBox\bin\Debug\07_02_DonguIleComboBox.exe.config
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\07_02_DonguIleComboBox\07_02_DonguIleComboBox\bin\Debug\07_02_DonguIleComboBox.exe
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\07_02_DonguIleComboBox\07_02_DonguIleComboBox\bin\Debug\07_02_DonguIleComboBox.pdb
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\07_02_DonguIleComboBox\07_02_DonguIleComboBox\obj\Debug\07_02_DonguIleComboBox.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\07_02_DonguIleComboBox\07_02_DonguIleComboBox\obj\Debug\_07_02_DonguIleComboBox.Form1.resources
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\07_02_DonguIleComboBox\07_02_DonguIleComboBox\obj\Debug\_07_02_DonguIleComboBox.Properties.Resources.resources
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\07_02_DonguIleComboBox\07_02_DonguIleComboBox\obj\Debug\07_02_DonguIleComboBox.csproj.GenerateResource.cache
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\07_02_DonguIleComboBox\07_02_DonguIleComboBox\obj\Debug\07_02_DonguIleComboBox.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\07_02_DonguIleComboBox\07_02_DonguIleComboBox\obj\Debug\07_02_DonguIleComboBox.exe
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\07_02_DonguIleComboBox\07_02_DonguIleComboBox\obj\Debug\07_02_DonguIleComboBox.pdb

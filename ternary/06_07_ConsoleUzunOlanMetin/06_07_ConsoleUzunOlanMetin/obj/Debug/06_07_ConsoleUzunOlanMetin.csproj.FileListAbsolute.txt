@@ -1,0 +1,12 @@
+T:\Programlar\Yazar\9)C#60\Projeler\06_07_ConsoleUzunOlanMetin\06_07_ConsoleUzunOlanMetin\bin\Debug\06_07_ConsoleUzunOlanMetin.exe.config
+T:\Programlar\Yazar\9)C#60\Projeler\06_07_ConsoleUzunOlanMetin\06_07_ConsoleUzunOlanMetin\bin\Debug\06_07_ConsoleUzunOlanMetin.exe
+T:\Programlar\Yazar\9)C#60\Projeler\06_07_ConsoleUzunOlanMetin\06_07_ConsoleUzunOlanMetin\bin\Debug\06_07_ConsoleUzunOlanMetin.pdb
+T:\Programlar\Yazar\9)C#60\Projeler\06_07_ConsoleUzunOlanMetin\06_07_ConsoleUzunOlanMetin\obj\Debug\06_07_ConsoleUzunOlanMetin.exe
+T:\Programlar\Yazar\9)C#60\Projeler\06_07_ConsoleUzunOlanMetin\06_07_ConsoleUzunOlanMetin\obj\Debug\06_07_ConsoleUzunOlanMetin.pdb
+C:\Users\gulyi\Desktop\2.Ders\ternary\06_07_ConsoleUzunOlanMetin\06_07_ConsoleUzunOlanMetin\bin\Debug\06_07_ConsoleUzunOlanMetin.exe.config
+C:\Users\gulyi\Desktop\2.Ders\ternary\06_07_ConsoleUzunOlanMetin\06_07_ConsoleUzunOlanMetin\bin\Debug\06_07_ConsoleUzunOlanMetin.exe
+C:\Users\gulyi\Desktop\2.Ders\ternary\06_07_ConsoleUzunOlanMetin\06_07_ConsoleUzunOlanMetin\bin\Debug\06_07_ConsoleUzunOlanMetin.pdb
+C:\Users\gulyi\Desktop\2.Ders\ternary\06_07_ConsoleUzunOlanMetin\06_07_ConsoleUzunOlanMetin\obj\Debug\06_07_ConsoleUzunOlanMetin.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\2.Ders\ternary\06_07_ConsoleUzunOlanMetin\06_07_ConsoleUzunOlanMetin\obj\Debug\06_07_ConsoleUzunOlanMetin.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\2.Ders\ternary\06_07_ConsoleUzunOlanMetin\06_07_ConsoleUzunOlanMetin\obj\Debug\06_07_ConsoleUzunOlanMetin.exe
+C:\Users\gulyi\Desktop\2.Ders\ternary\06_07_ConsoleUzunOlanMetin\06_07_ConsoleUzunOlanMetin\obj\Debug\06_07_ConsoleUzunOlanMetin.pdb

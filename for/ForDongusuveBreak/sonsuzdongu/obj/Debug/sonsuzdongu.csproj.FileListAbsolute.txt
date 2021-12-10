@@ -1,0 +1,6 @@
+C:\Users\gulyi\source\repos\ForDongusuveBreak\sonsuzdongu\bin\Debug\sonsuzdongu.exe.config
+C:\Users\gulyi\source\repos\ForDongusuveBreak\sonsuzdongu\bin\Debug\sonsuzdongu.exe
+C:\Users\gulyi\source\repos\ForDongusuveBreak\sonsuzdongu\bin\Debug\sonsuzdongu.pdb
+C:\Users\gulyi\source\repos\ForDongusuveBreak\sonsuzdongu\obj\Debug\sonsuzdongu.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\source\repos\ForDongusuveBreak\sonsuzdongu\obj\Debug\sonsuzdongu.exe
+C:\Users\gulyi\source\repos\ForDongusuveBreak\sonsuzdongu\obj\Debug\sonsuzdongu.pdb

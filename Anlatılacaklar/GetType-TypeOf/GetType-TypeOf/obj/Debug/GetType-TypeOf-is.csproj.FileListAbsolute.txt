@@ -1,0 +1,10 @@
+C:\Users\gulyi\source\repos\GetType-TypeOf\GetType-TypeOf\bin\Debug\GetType-TypeOf.exe.config
+C:\Users\gulyi\source\repos\GetType-TypeOf\GetType-TypeOf\bin\Debug\GetType-TypeOf.exe
+C:\Users\gulyi\source\repos\GetType-TypeOf\GetType-TypeOf\bin\Debug\GetType-TypeOf.pdb
+C:\Users\gulyi\source\repos\GetType-TypeOf\GetType-TypeOf\obj\Debug\GetType-TypeOf-is.csproj.AssemblyReference.cache
+C:\Users\gulyi\source\repos\GetType-TypeOf\GetType-TypeOf\obj\Debug\GetType_TypeOf.Form1.resources
+C:\Users\gulyi\source\repos\GetType-TypeOf\GetType-TypeOf\obj\Debug\GetType_TypeOf.Properties.Resources.resources
+C:\Users\gulyi\source\repos\GetType-TypeOf\GetType-TypeOf\obj\Debug\GetType-TypeOf-is.csproj.GenerateResource.cache
+C:\Users\gulyi\source\repos\GetType-TypeOf\GetType-TypeOf\obj\Debug\GetType-TypeOf-is.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\source\repos\GetType-TypeOf\GetType-TypeOf\obj\Debug\GetType-TypeOf.exe
+C:\Users\gulyi\source\repos\GetType-TypeOf\GetType-TypeOf\obj\Debug\GetType-TypeOf.pdb

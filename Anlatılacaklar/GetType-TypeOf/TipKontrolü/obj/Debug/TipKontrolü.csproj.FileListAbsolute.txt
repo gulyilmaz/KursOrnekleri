@@ -1,0 +1,13 @@
+C:\Users\gulyi\source\repos\GetType-TypeOf\TipKontrolü\bin\Debug\TipKontrolü.exe.config
+C:\Users\gulyi\source\repos\GetType-TypeOf\TipKontrolü\bin\Debug\TipKontrolü.exe
+C:\Users\gulyi\source\repos\GetType-TypeOf\TipKontrolü\bin\Debug\TipKontrolü.pdb
+C:\Users\gulyi\source\repos\GetType-TypeOf\TipKontrolü\obj\Debug\TipKontrolü.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\source\repos\GetType-TypeOf\TipKontrolü\obj\Debug\TipKontrolü.exe
+C:\Users\gulyi\source\repos\GetType-TypeOf\TipKontrolü\obj\Debug\TipKontrolü.pdb
+C:\Users\gulyi\Desktop\2.Ders\Anlatılacaklar\GetType-TypeOf\TipKontrolü\bin\Debug\TipKontrolü.exe.config
+C:\Users\gulyi\Desktop\2.Ders\Anlatılacaklar\GetType-TypeOf\TipKontrolü\bin\Debug\TipKontrolü.exe
+C:\Users\gulyi\Desktop\2.Ders\Anlatılacaklar\GetType-TypeOf\TipKontrolü\bin\Debug\TipKontrolü.pdb
+C:\Users\gulyi\Desktop\2.Ders\Anlatılacaklar\GetType-TypeOf\TipKontrolü\obj\Debug\TipKontrolü.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\2.Ders\Anlatılacaklar\GetType-TypeOf\TipKontrolü\obj\Debug\TipKontrolü.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\2.Ders\Anlatılacaklar\GetType-TypeOf\TipKontrolü\obj\Debug\TipKontrolü.exe
+C:\Users\gulyi\Desktop\2.Ders\Anlatılacaklar\GetType-TypeOf\TipKontrolü\obj\Debug\TipKontrolü.pdb
