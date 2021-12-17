@@ -1,0 +1,5 @@
+C:\msnet\OOP\DataUret\DataUret\bin\Debug\DataUret.dll
+C:\msnet\OOP\DataUret\DataUret\bin\Debug\DataUret.pdb
+C:\msnet\OOP\DataUret\DataUret\obj\Debug\DataUret.dll
+C:\msnet\OOP\DataUret\DataUret\obj\Debug\DataUret.pdb
+C:\msnet\OOP\DataUret\DataUret\obj\Debug\DataUret.csprojResolveAssemblyReference.cache

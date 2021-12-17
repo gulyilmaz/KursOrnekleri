@@ -1,0 +1,11 @@
+C:\msnet\OOP\DataUret\OgrenciUI\bin\Debug\OgrenciUI.exe.config
+C:\msnet\OOP\DataUret\OgrenciUI\bin\Debug\OgrenciUI.exe
+C:\msnet\OOP\DataUret\OgrenciUI\bin\Debug\OgrenciUI.pdb
+C:\msnet\OOP\DataUret\OgrenciUI\bin\Debug\DataUret.dll
+C:\msnet\OOP\DataUret\OgrenciUI\bin\Debug\DataUret.pdb
+C:\msnet\OOP\DataUret\OgrenciUI\obj\Debug\OgrenciUI.csprojResolveAssemblyReference.cache
+C:\msnet\OOP\DataUret\OgrenciUI\obj\Debug\OgrenciUI.Form1.resources
+C:\msnet\OOP\DataUret\OgrenciUI\obj\Debug\OgrenciUI.Properties.Resources.resources
+C:\msnet\OOP\DataUret\OgrenciUI\obj\Debug\OgrenciUI.csproj.GenerateResource.Cache
+C:\msnet\OOP\DataUret\OgrenciUI\obj\Debug\OgrenciUI.exe
+C:\msnet\OOP\DataUret\OgrenciUI\obj\Debug\OgrenciUI.pdb

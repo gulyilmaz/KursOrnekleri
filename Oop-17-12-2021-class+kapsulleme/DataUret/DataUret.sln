@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataUret", "DataUret\DataUret.csproj", "{56673509-0034-45BA-A04C-EFEB467416BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgrenciUI", "OgrenciUI\OgrenciUI.csproj", "{1E1A2F31-BF8A-4A3F-88CC-430CF0BCECA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56673509-0034-45BA-A04C-EFEB467416BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56673509-0034-45BA-A04C-EFEB467416BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56673509-0034-45BA-A04C-EFEB467416BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56673509-0034-45BA-A04C-EFEB467416BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E1A2F31-BF8A-4A3F-88CC-430CF0BCECA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E1A2F31-BF8A-4A3F-88CC-430CF0BCECA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E1A2F31-BF8A-4A3F-88CC-430CF0BCECA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E1A2F31-BF8A-4A3F-88CC-430CF0BCECA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

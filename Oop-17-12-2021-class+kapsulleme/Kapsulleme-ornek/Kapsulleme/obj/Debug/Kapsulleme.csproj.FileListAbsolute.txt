@@ -1,0 +1,46 @@
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Kapsulleme\Kapsulleme\bin\Debug\Kapsulleme.exe.config
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Kapsulleme\Kapsulleme\bin\Debug\Kapsulleme.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Kapsulleme\Kapsulleme\bin\Debug\Kapsulleme.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.csprojResolveAssemblyReference.cache
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.Form1.resources
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.Properties.Resources.resources
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.csproj.GenerateResource.Cache
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\4.OOP\Kapsulleme\Kapsulleme\bin\Debug\Kapsulleme.exe.config
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\4.OOP\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\4.OOP\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\4.OOP\Kapsulleme\Kapsulleme\bin\Debug\Kapsulleme.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\4.OOP\Kapsulleme\Kapsulleme\bin\Debug\Kapsulleme.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\4.OOP\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.csprojResolveAssemblyReference.cache
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\4.OOP\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.Form1.resources
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\4.OOP\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.Properties.Resources.resources
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\4.OOP\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.csproj.GenerateResource.Cache
+C:\msnet\Egitim1501\4.OOP\Kapsulleme\Kapsulleme\bin\Debug\Kapsulleme.exe.config
+C:\msnet\Egitim1501\4.OOP\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.exe
+C:\msnet\Egitim1501\4.OOP\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.pdb
+C:\msnet\Egitim1501\4.OOP\Kapsulleme\Kapsulleme\bin\Debug\Kapsulleme.exe
+C:\msnet\Egitim1501\4.OOP\Kapsulleme\Kapsulleme\bin\Debug\Kapsulleme.pdb
+C:\msnet\Egitim1501\4.OOP\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.csprojResolveAssemblyReference.cache
+C:\msnet\Egitim1501\4.OOP\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.Form1.resources
+C:\msnet\Egitim1501\4.OOP\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.Properties.Resources.resources
+C:\msnet\Egitim1501\4.OOP\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.csproj.GenerateResource.Cache
+C:\msnet\Egitim1501\Kapsulleme\Kapsulleme\bin\Debug\Kapsulleme.exe.config
+C:\msnet\Egitim1501\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.exe
+C:\msnet\Egitim1501\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.pdb
+C:\msnet\Egitim1501\Kapsulleme\Kapsulleme\bin\Debug\Kapsulleme.exe
+C:\msnet\Egitim1501\Kapsulleme\Kapsulleme\bin\Debug\Kapsulleme.pdb
+C:\msnet\Egitim1501\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.csprojResolveAssemblyReference.cache
+C:\msnet\Egitim1501\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.Form1.resources
+C:\msnet\Egitim1501\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.Properties.Resources.resources
+C:\msnet\Egitim1501\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.csproj.GenerateResource.Cache
+C:\Users\gulyi\Desktop\c#\örnek projeler\14-OOP\Kapsulleme\Kapsulleme\bin\Debug\Kapsulleme.exe.config
+C:\Users\gulyi\Desktop\c#\örnek projeler\14-OOP\Kapsulleme\Kapsulleme\bin\Debug\Kapsulleme.exe
+C:\Users\gulyi\Desktop\c#\örnek projeler\14-OOP\Kapsulleme\Kapsulleme\bin\Debug\Kapsulleme.pdb
+C:\Users\gulyi\Desktop\c#\örnek projeler\14-OOP\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\c#\örnek projeler\14-OOP\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.Form1.resources
+C:\Users\gulyi\Desktop\c#\örnek projeler\14-OOP\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.Properties.Resources.resources
+C:\Users\gulyi\Desktop\c#\örnek projeler\14-OOP\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.csproj.GenerateResource.cache
+C:\Users\gulyi\Desktop\c#\örnek projeler\14-OOP\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\c#\örnek projeler\14-OOP\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.exe
+C:\Users\gulyi\Desktop\c#\örnek projeler\14-OOP\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.pdb

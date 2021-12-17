@@ -1,0 +1,5 @@
+E:\205\3.hafta\persembe\ogrenci\ogrenci\obj\Debug\ogrenci.csprojAssemblyReference.cache
+E:\205\3.hafta\persembe\ogrenci\ogrenci\obj\Debug\ogrenci.Form1.resources
+E:\205\3.hafta\persembe\ogrenci\ogrenci\obj\Debug\ogrenci.Properties.Resources.resources
+E:\205\3.hafta\persembe\ogrenci\ogrenci\obj\Debug\ogrenci.csproj.GenerateResource.cache
+E:\205\3.hafta\persembe\ogrenci\ogrenci\obj\Debug\ogrenci.csproj.CoreCompileInputs.cache
