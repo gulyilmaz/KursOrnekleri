@@ -1,0 +1,7 @@
+C:\Users\gulyi\source\repos\Kapsulleme-ders\Kapsulleme-ders\bin\Debug\Kapsulleme-ders.exe.config
+C:\Users\gulyi\source\repos\Kapsulleme-ders\Kapsulleme-ders\bin\Debug\Kapsulleme-ders.exe
+C:\Users\gulyi\source\repos\Kapsulleme-ders\Kapsulleme-ders\bin\Debug\Kapsulleme-ders.pdb
+C:\Users\gulyi\source\repos\Kapsulleme-ders\Kapsulleme-ders\obj\Debug\Kapsulleme-ders.csproj.AssemblyReference.cache
+C:\Users\gulyi\source\repos\Kapsulleme-ders\Kapsulleme-ders\obj\Debug\Kapsulleme-ders.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\source\repos\Kapsulleme-ders\Kapsulleme-ders\obj\Debug\Kapsulleme-ders.exe
+C:\Users\gulyi\source\repos\Kapsulleme-ders\Kapsulleme-ders\obj\Debug\Kapsulleme-ders.pdb

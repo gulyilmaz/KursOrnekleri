@@ -1,0 +1,10 @@
+E:\205\4.hafta\perşembe\kapsulproje\kapsulproje\obj\Debug\kapsulproje.csprojAssemblyReference.cache
+E:\205\4.hafta\perşembe\kapsulproje\kapsulproje\obj\Debug\kapsulproje.Form1.resources
+E:\205\4.hafta\perşembe\kapsulproje\kapsulproje\obj\Debug\kapsulproje.Properties.Resources.resources
+E:\205\4.hafta\perşembe\kapsulproje\kapsulproje\obj\Debug\kapsulproje.csproj.GenerateResource.cache
+E:\205\4.hafta\perşembe\kapsulproje\kapsulproje\obj\Debug\kapsulproje.csproj.CoreCompileInputs.cache
+E:\205\4.hafta\perşembe\kapsulproje\kapsulproje\bin\Debug\kapsulproje.exe.config
+E:\205\4.hafta\perşembe\kapsulproje\kapsulproje\bin\Debug\kapsulproje.exe
+E:\205\4.hafta\perşembe\kapsulproje\kapsulproje\bin\Debug\kapsulproje.pdb
+E:\205\4.hafta\perşembe\kapsulproje\kapsulproje\obj\Debug\kapsulproje.exe
+E:\205\4.hafta\perşembe\kapsulproje\kapsulproje\obj\Debug\kapsulproje.pdb
