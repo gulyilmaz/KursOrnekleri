@@ -1,0 +1,29 @@
+C:\msnet\OOP\Ogrenci\OgrenciProje\obj\Debug\OgrenciProje.csprojResolveAssemblyReference.cache
+C:\msnet\OOP\Ogrenci\OgrenciProje\obj\Debug\OgrenciProje.Form1.resources
+C:\msnet\OOP\Ogrenci\OgrenciProje\obj\Debug\OgrenciProje.Properties.Resources.resources
+C:\msnet\OOP\Ogrenci\OgrenciProje\obj\Debug\OgrenciProje.csproj.GenerateResource.Cache
+C:\msnet\OOP\Ogrenci\OgrenciProje\bin\Debug\OgrenciProje.exe.config
+C:\msnet\OOP\Ogrenci\OgrenciProje\bin\Debug\OgrenciProje.exe
+C:\msnet\OOP\Ogrenci\OgrenciProje\bin\Debug\OgrenciProje.pdb
+C:\msnet\OOP\Ogrenci\OgrenciProje\obj\Debug\OgrenciProje.exe
+C:\msnet\OOP\Ogrenci\OgrenciProje\obj\Debug\OgrenciProje.pdb
+C:\Users\gulyi\Desktop\c#\örnek projeler\14-OOP\Ogrenci\OgrenciProje\bin\Debug\OgrenciProje.exe.config
+C:\Users\gulyi\Desktop\c#\örnek projeler\14-OOP\Ogrenci\OgrenciProje\bin\Debug\OgrenciProje.exe
+C:\Users\gulyi\Desktop\c#\örnek projeler\14-OOP\Ogrenci\OgrenciProje\bin\Debug\OgrenciProje.pdb
+C:\Users\gulyi\Desktop\c#\örnek projeler\14-OOP\Ogrenci\OgrenciProje\obj\Debug\OgrenciProje.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\c#\örnek projeler\14-OOP\Ogrenci\OgrenciProje\obj\Debug\OgrenciProje.Form1.resources
+C:\Users\gulyi\Desktop\c#\örnek projeler\14-OOP\Ogrenci\OgrenciProje\obj\Debug\OgrenciProje.Properties.Resources.resources
+C:\Users\gulyi\Desktop\c#\örnek projeler\14-OOP\Ogrenci\OgrenciProje\obj\Debug\OgrenciProje.csproj.GenerateResource.cache
+C:\Users\gulyi\Desktop\c#\örnek projeler\14-OOP\Ogrenci\OgrenciProje\obj\Debug\OgrenciProje.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\c#\örnek projeler\14-OOP\Ogrenci\OgrenciProje\obj\Debug\OgrenciProje.exe
+C:\Users\gulyi\Desktop\c#\örnek projeler\14-OOP\Ogrenci\OgrenciProje\obj\Debug\OgrenciProje.pdb
+C:\Users\gulyi\Desktop\c#\c#geri\sanalmethod-tostring\Ogrenci\OgrenciProje\bin\Debug\OgrenciProje.exe.config
+C:\Users\gulyi\Desktop\c#\c#geri\sanalmethod-tostring\Ogrenci\OgrenciProje\bin\Debug\OgrenciProje.exe
+C:\Users\gulyi\Desktop\c#\c#geri\sanalmethod-tostring\Ogrenci\OgrenciProje\bin\Debug\OgrenciProje.pdb
+C:\Users\gulyi\Desktop\c#\c#geri\sanalmethod-tostring\Ogrenci\OgrenciProje\obj\Debug\OgrenciProje.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\c#\c#geri\sanalmethod-tostring\Ogrenci\OgrenciProje\obj\Debug\OgrenciProje.Form1.resources
+C:\Users\gulyi\Desktop\c#\c#geri\sanalmethod-tostring\Ogrenci\OgrenciProje\obj\Debug\OgrenciProje.Properties.Resources.resources
+C:\Users\gulyi\Desktop\c#\c#geri\sanalmethod-tostring\Ogrenci\OgrenciProje\obj\Debug\OgrenciProje.csproj.GenerateResource.cache
+C:\Users\gulyi\Desktop\c#\c#geri\sanalmethod-tostring\Ogrenci\OgrenciProje\obj\Debug\OgrenciProje.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\c#\c#geri\sanalmethod-tostring\Ogrenci\OgrenciProje\obj\Debug\OgrenciProje.exe
+C:\Users\gulyi\Desktop\c#\c#geri\sanalmethod-tostring\Ogrenci\OgrenciProje\obj\Debug\OgrenciProje.pdb

@@ -1,0 +1,13 @@
+C:\Users\gulyi\Desktop\c#\c#geri\kalitim-ders\kalitim-ders\bin\Debug\kalitim-ders.exe.config
+C:\Users\gulyi\Desktop\c#\c#geri\kalitim-ders\kalitim-ders\bin\Debug\kalitim-ders.exe
+C:\Users\gulyi\Desktop\c#\c#geri\kalitim-ders\kalitim-ders\bin\Debug\kalitim-ders.pdb
+C:\Users\gulyi\Desktop\c#\c#geri\kalitim-ders\kalitim-ders\bin\Debug\FakeData.dll
+C:\Users\gulyi\Desktop\c#\c#geri\kalitim-ders\kalitim-ders\bin\Debug\FakeData.pdb
+C:\Users\gulyi\Desktop\c#\c#geri\kalitim-ders\kalitim-ders\obj\Debug\kalitim-ders.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\c#\c#geri\kalitim-ders\kalitim-ders\obj\Debug\kalitim_ders.Form1.resources
+C:\Users\gulyi\Desktop\c#\c#geri\kalitim-ders\kalitim-ders\obj\Debug\kalitim_ders.Properties.Resources.resources
+C:\Users\gulyi\Desktop\c#\c#geri\kalitim-ders\kalitim-ders\obj\Debug\kalitim-ders.csproj.GenerateResource.cache
+C:\Users\gulyi\Desktop\c#\c#geri\kalitim-ders\kalitim-ders\obj\Debug\kalitim-ders.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\c#\c#geri\kalitim-ders\kalitim-ders\obj\Debug\kalitim-ders.csproj.CopyComplete
+C:\Users\gulyi\Desktop\c#\c#geri\kalitim-ders\kalitim-ders\obj\Debug\kalitim-ders.exe
+C:\Users\gulyi\Desktop\c#\c#geri\kalitim-ders\kalitim-ders\obj\Debug\kalitim-ders.pdb
