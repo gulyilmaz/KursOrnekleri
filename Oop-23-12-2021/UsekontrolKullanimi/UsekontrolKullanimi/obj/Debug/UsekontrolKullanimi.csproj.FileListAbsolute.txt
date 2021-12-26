@@ -1,0 +1,13 @@
+C:\Users\gulyi\source\repos\UsekontrolKullanimi\UsekontrolKullanimi\bin\Debug\UsekontrolKullanimi.exe.config
+C:\Users\gulyi\source\repos\UsekontrolKullanimi\UsekontrolKullanimi\bin\Debug\UsekontrolKullanimi.exe
+C:\Users\gulyi\source\repos\UsekontrolKullanimi\UsekontrolKullanimi\bin\Debug\UsekontrolKullanimi.pdb
+C:\Users\gulyi\source\repos\UsekontrolKullanimi\UsekontrolKullanimi\bin\Debug\UserControl.dll
+C:\Users\gulyi\source\repos\UsekontrolKullanimi\UsekontrolKullanimi\bin\Debug\UserControl.pdb
+C:\Users\gulyi\source\repos\UsekontrolKullanimi\UsekontrolKullanimi\obj\Debug\UsekontrolKullanimi.csproj.AssemblyReference.cache
+C:\Users\gulyi\source\repos\UsekontrolKullanimi\UsekontrolKullanimi\obj\Debug\UsekontrolKullanimi.Form1.resources
+C:\Users\gulyi\source\repos\UsekontrolKullanimi\UsekontrolKullanimi\obj\Debug\UsekontrolKullanimi.Properties.Resources.resources
+C:\Users\gulyi\source\repos\UsekontrolKullanimi\UsekontrolKullanimi\obj\Debug\UsekontrolKullanimi.csproj.GenerateResource.cache
+C:\Users\gulyi\source\repos\UsekontrolKullanimi\UsekontrolKullanimi\obj\Debug\UsekontrolKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\source\repos\UsekontrolKullanimi\UsekontrolKullanimi\obj\Debug\UsekontrolKullanimi.csproj.CopyComplete
+C:\Users\gulyi\source\repos\UsekontrolKullanimi\UsekontrolKullanimi\obj\Debug\UsekontrolKullanimi.exe
+C:\Users\gulyi\source\repos\UsekontrolKullanimi\UsekontrolKullanimi\obj\Debug\UsekontrolKullanimi.pdb

@@ -1,0 +1,26 @@
+T:\Programlar\Yazar\9)C#60\Projeler\20_02_BisikletMontaj\20_02_BisikletMontaj\bin\Debug\20_02_BisikletMontaj.exe.config
+T:\Programlar\Yazar\9)C#60\Projeler\20_02_BisikletMontaj\20_02_BisikletMontaj\obj\Debug\20_02_BisikletMontaj.csprojResolveAssemblyReference.cache
+T:\Programlar\Yazar\9)C#60\Projeler\20_02_BisikletMontaj\20_02_BisikletMontaj\obj\Debug\_20_02_BisikletMontaj.Properties.Resources.resources
+T:\Programlar\Yazar\9)C#60\Projeler\20_02_BisikletMontaj\20_02_BisikletMontaj\obj\Debug\20_02_BisikletMontaj.csproj.GenerateResource.Cache
+T:\Programlar\Yazar\9)C#60\Projeler\20_02_BisikletMontaj\20_02_BisikletMontaj\bin\Debug\20_02_BisikletMontaj.exe
+T:\Programlar\Yazar\9)C#60\Projeler\20_02_BisikletMontaj\20_02_BisikletMontaj\bin\Debug\20_02_BisikletMontaj.pdb
+T:\Programlar\Yazar\9)C#60\Projeler\20_02_BisikletMontaj\20_02_BisikletMontaj\obj\Debug\20_02_BisikletMontaj.exe
+T:\Programlar\Yazar\9)C#60\Projeler\20_02_BisikletMontaj\20_02_BisikletMontaj\obj\Debug\20_02_BisikletMontaj.pdb
+C:\Users\Ben\Desktop\Projelerle c# kaynak kodlar\20_02_BisikletMontaj\20_02_BisikletMontaj\bin\Debug\20_02_BisikletMontaj.exe.config
+C:\Users\Ben\Desktop\Projelerle c# kaynak kodlar\20_02_BisikletMontaj\20_02_BisikletMontaj\bin\Debug\20_02_BisikletMontaj.exe
+C:\Users\Ben\Desktop\Projelerle c# kaynak kodlar\20_02_BisikletMontaj\20_02_BisikletMontaj\bin\Debug\20_02_BisikletMontaj.pdb
+C:\Users\Ben\Desktop\Projelerle c# kaynak kodlar\20_02_BisikletMontaj\20_02_BisikletMontaj\obj\Debug\20_02_BisikletMontaj.csprojAssemblyReference.cache
+C:\Users\Ben\Desktop\Projelerle c# kaynak kodlar\20_02_BisikletMontaj\20_02_BisikletMontaj\obj\Debug\_20_02_BisikletMontaj.Properties.Resources.resources
+C:\Users\Ben\Desktop\Projelerle c# kaynak kodlar\20_02_BisikletMontaj\20_02_BisikletMontaj\obj\Debug\20_02_BisikletMontaj.csproj.GenerateResource.cache
+C:\Users\Ben\Desktop\Projelerle c# kaynak kodlar\20_02_BisikletMontaj\20_02_BisikletMontaj\obj\Debug\20_02_BisikletMontaj.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\Projelerle c# kaynak kodlar\20_02_BisikletMontaj\20_02_BisikletMontaj\obj\Debug\20_02_BisikletMontaj.exe
+C:\Users\Ben\Desktop\Projelerle c# kaynak kodlar\20_02_BisikletMontaj\20_02_BisikletMontaj\obj\Debug\20_02_BisikletMontaj.pdb
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\20_02_BisikletMontaj\20_02_BisikletMontaj\bin\Debug\20_02_BisikletMontaj.exe.config
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\20_02_BisikletMontaj\20_02_BisikletMontaj\bin\Debug\20_02_BisikletMontaj.exe
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\20_02_BisikletMontaj\20_02_BisikletMontaj\bin\Debug\20_02_BisikletMontaj.pdb
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\20_02_BisikletMontaj\20_02_BisikletMontaj\obj\Debug\20_02_BisikletMontaj.csproj.AssemblyReference.cache
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\20_02_BisikletMontaj\20_02_BisikletMontaj\obj\Debug\_20_02_BisikletMontaj.Properties.Resources.resources
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\20_02_BisikletMontaj\20_02_BisikletMontaj\obj\Debug\20_02_BisikletMontaj.csproj.GenerateResource.cache
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\20_02_BisikletMontaj\20_02_BisikletMontaj\obj\Debug\20_02_BisikletMontaj.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\20_02_BisikletMontaj\20_02_BisikletMontaj\obj\Debug\20_02_BisikletMontaj.exe
+C:\Users\gulyi\Desktop\c#\Projelerle c# kaynak kodlar\20_02_BisikletMontaj\20_02_BisikletMontaj\obj\Debug\20_02_BisikletMontaj.pdb

@@ -1,0 +1,6 @@
+C:\Users\gulyi\source\repos\UserControl\UserControl\bin\Debug\UserControl.dll
+C:\Users\gulyi\source\repos\UserControl\UserControl\bin\Debug\UserControl.pdb
+C:\Users\gulyi\source\repos\UserControl\UserControl\obj\Debug\UserControl.csproj.AssemblyReference.cache
+C:\Users\gulyi\source\repos\UserControl\UserControl\obj\Debug\UserControl.csproj.CoreCompileInputs.cache
+C:\Users\gulyi\source\repos\UserControl\UserControl\obj\Debug\UserControl.dll
+C:\Users\gulyi\source\repos\UserControl\UserControl\obj\Debug\UserControl.pdb
