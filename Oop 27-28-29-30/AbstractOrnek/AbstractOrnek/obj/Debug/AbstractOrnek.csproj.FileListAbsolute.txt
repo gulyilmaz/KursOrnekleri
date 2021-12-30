@@ -1,0 +1,7 @@
+C:\Users\SEM\source\repos\AbstractOrnek\AbstractOrnek\bin\Debug\AbstractOrnek.exe.config
+C:\Users\SEM\source\repos\AbstractOrnek\AbstractOrnek\bin\Debug\AbstractOrnek.exe
+C:\Users\SEM\source\repos\AbstractOrnek\AbstractOrnek\bin\Debug\AbstractOrnek.pdb
+C:\Users\SEM\source\repos\AbstractOrnek\AbstractOrnek\obj\Debug\AbstractOrnek.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\AbstractOrnek\AbstractOrnek\obj\Debug\AbstractOrnek.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\AbstractOrnek\AbstractOrnek\obj\Debug\AbstractOrnek.exe
+C:\Users\SEM\source\repos\AbstractOrnek\AbstractOrnek\obj\Debug\AbstractOrnek.pdb

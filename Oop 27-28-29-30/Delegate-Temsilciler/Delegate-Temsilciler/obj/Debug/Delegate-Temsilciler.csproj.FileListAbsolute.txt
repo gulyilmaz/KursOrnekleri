@@ -1,0 +1,7 @@
+C:\Users\SEM\source\repos\Delegate-Temsilciler\Delegate-Temsilciler\bin\Debug\Delegate-Temsilciler.exe.config
+C:\Users\SEM\source\repos\Delegate-Temsilciler\Delegate-Temsilciler\bin\Debug\Delegate-Temsilciler.exe
+C:\Users\SEM\source\repos\Delegate-Temsilciler\Delegate-Temsilciler\bin\Debug\Delegate-Temsilciler.pdb
+C:\Users\SEM\source\repos\Delegate-Temsilciler\Delegate-Temsilciler\obj\Debug\Delegate-Temsilciler.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\Delegate-Temsilciler\Delegate-Temsilciler\obj\Debug\Delegate-Temsilciler.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\Delegate-Temsilciler\Delegate-Temsilciler\obj\Debug\Delegate-Temsilciler.exe
+C:\Users\SEM\source\repos\Delegate-Temsilciler\Delegate-Temsilciler\obj\Debug\Delegate-Temsilciler.pdb

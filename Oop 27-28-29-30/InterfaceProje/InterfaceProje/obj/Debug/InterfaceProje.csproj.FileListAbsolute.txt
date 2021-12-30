@@ -1,0 +1,10 @@
+C:\Users\SEM\source\repos\InterfaceProje\InterfaceProje\bin\Debug\InterfaceProje.exe.config
+C:\Users\SEM\source\repos\InterfaceProje\InterfaceProje\bin\Debug\InterfaceProje.exe
+C:\Users\SEM\source\repos\InterfaceProje\InterfaceProje\bin\Debug\InterfaceProje.pdb
+C:\Users\SEM\source\repos\InterfaceProje\InterfaceProje\obj\Debug\InterfaceProje.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\InterfaceProje\InterfaceProje\obj\Debug\InterfaceProje.Form1.resources
+C:\Users\SEM\source\repos\InterfaceProje\InterfaceProje\obj\Debug\InterfaceProje.Properties.Resources.resources
+C:\Users\SEM\source\repos\InterfaceProje\InterfaceProje\obj\Debug\InterfaceProje.csproj.GenerateResource.cache
+C:\Users\SEM\source\repos\InterfaceProje\InterfaceProje\obj\Debug\InterfaceProje.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\InterfaceProje\InterfaceProje\obj\Debug\InterfaceProje.exe
+C:\Users\SEM\source\repos\InterfaceProje\InterfaceProje\obj\Debug\InterfaceProje.pdb

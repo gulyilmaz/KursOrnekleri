@@ -1,0 +1,7 @@
+C:\Users\SEM\source\repos\AbstractSample\AbstractSample\bin\Debug\AbstractSample.exe.config
+C:\Users\SEM\source\repos\AbstractSample\AbstractSample\bin\Debug\AbstractSample.exe
+C:\Users\SEM\source\repos\AbstractSample\AbstractSample\bin\Debug\AbstractSample.pdb
+C:\Users\SEM\source\repos\AbstractSample\AbstractSample\obj\Debug\AbstractSample.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\AbstractSample\AbstractSample\obj\Debug\AbstractSample.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\AbstractSample\AbstractSample\obj\Debug\AbstractSample.exe
+C:\Users\SEM\source\repos\AbstractSample\AbstractSample\obj\Debug\AbstractSample.pdb

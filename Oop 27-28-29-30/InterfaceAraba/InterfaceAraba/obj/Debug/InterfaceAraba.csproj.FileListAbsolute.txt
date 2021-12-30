@@ -1,0 +1,7 @@
+C:\Users\SEM\source\repos\InterfaceAraba\InterfaceAraba\bin\Debug\InterfaceAraba.exe.config
+C:\Users\SEM\source\repos\InterfaceAraba\InterfaceAraba\bin\Debug\InterfaceAraba.exe
+C:\Users\SEM\source\repos\InterfaceAraba\InterfaceAraba\bin\Debug\InterfaceAraba.pdb
+C:\Users\SEM\source\repos\InterfaceAraba\InterfaceAraba\obj\Debug\InterfaceAraba.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\InterfaceAraba\InterfaceAraba\obj\Debug\InterfaceAraba.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\InterfaceAraba\InterfaceAraba\obj\Debug\InterfaceAraba.exe
+C:\Users\SEM\source\repos\InterfaceAraba\InterfaceAraba\obj\Debug\InterfaceAraba.pdb

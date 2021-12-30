@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Access Modifiers(ErisimBelirleyiciler)", "Access Modifiers(ErisimBelirleyiciler)\Access Modifiers(ErisimBelirleyiciler).csproj", "{B6DDAC55-9E4D-444C-8D90-34CD5A2AA510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deneme", "deneme\deneme.csproj", "{744196FB-CA94-4607-9470-E73BC82F009F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6DDAC55-9E4D-444C-8D90-34CD5A2AA510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6DDAC55-9E4D-444C-8D90-34CD5A2AA510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6DDAC55-9E4D-444C-8D90-34CD5A2AA510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6DDAC55-9E4D-444C-8D90-34CD5A2AA510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{744196FB-CA94-4607-9470-E73BC82F009F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744196FB-CA94-4607-9470-E73BC82F009F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744196FB-CA94-4607-9470-E73BC82F009F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744196FB-CA94-4607-9470-E73BC82F009F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EFD9AEC-F4A5-4FDE-8F69-572E78E54D07}
+	EndGlobalSection
+EndGlobal

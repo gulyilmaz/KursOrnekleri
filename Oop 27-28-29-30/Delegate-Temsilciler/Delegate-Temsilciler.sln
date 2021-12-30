@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate-Temsilciler", "Delegate-Temsilciler\Delegate-Temsilciler.csproj", "{AC23199E-C561-4DEF-AA34-40FA71C01E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegateisimsizmetodkullanimi", "Delegateisimsizmetodkullanimi\Delegateisimsizmetodkullanimi.csproj", "{3F3E7E0B-CCCF-4D2D-BEAF-0C1D28CDAD75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC23199E-C561-4DEF-AA34-40FA71C01E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC23199E-C561-4DEF-AA34-40FA71C01E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC23199E-C561-4DEF-AA34-40FA71C01E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC23199E-C561-4DEF-AA34-40FA71C01E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F3E7E0B-CCCF-4D2D-BEAF-0C1D28CDAD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3E7E0B-CCCF-4D2D-BEAF-0C1D28CDAD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3E7E0B-CCCF-4D2D-BEAF-0C1D28CDAD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3E7E0B-CCCF-4D2D-BEAF-0C1D28CDAD75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AE9E104-06BB-4A66-82D3-5966049193E2}
+	EndGlobalSection
+EndGlobal

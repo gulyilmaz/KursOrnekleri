@@ -1,0 +1,7 @@
+C:\Users\SEM\source\repos\ListGeneric\ListGeneric\bin\Debug\ListGeneric.exe.config
+C:\Users\SEM\source\repos\ListGeneric\ListGeneric\bin\Debug\ListGeneric.exe
+C:\Users\SEM\source\repos\ListGeneric\ListGeneric\bin\Debug\ListGeneric.pdb
+C:\Users\SEM\source\repos\ListGeneric\ListGeneric\obj\Debug\ListGeneric.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\ListGeneric\ListGeneric\obj\Debug\ListGeneric.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\ListGeneric\ListGeneric\obj\Debug\ListGeneric.exe
+C:\Users\SEM\source\repos\ListGeneric\ListGeneric\obj\Debug\ListGeneric.pdb

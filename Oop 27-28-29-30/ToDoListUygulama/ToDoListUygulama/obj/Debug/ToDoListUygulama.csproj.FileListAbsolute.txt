@@ -1,0 +1,13 @@
+C:\Users\SEM\source\repos\ToDoListUygulama\ToDoListUygulama\bin\Debug\ToDoListUygulama.exe.config
+C:\Users\SEM\source\repos\ToDoListUygulama\ToDoListUygulama\bin\Debug\ToDoListUygulama.exe
+C:\Users\SEM\source\repos\ToDoListUygulama\ToDoListUygulama\bin\Debug\ToDoListUygulama.pdb
+C:\Users\SEM\source\repos\ToDoListUygulama\ToDoListUygulama\obj\Debug\ToDoListUygulama.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\ToDoListUygulama\ToDoListUygulama\obj\Debug\ToDoListUygulama.Form1.resources
+C:\Users\SEM\source\repos\ToDoListUygulama\ToDoListUygulama\obj\Debug\ToDoListUygulama.Properties.Resources.resources
+C:\Users\SEM\source\repos\ToDoListUygulama\ToDoListUygulama\obj\Debug\ToDoListUygulama.csproj.GenerateResource.cache
+C:\Users\SEM\source\repos\ToDoListUygulama\ToDoListUygulama\obj\Debug\ToDoListUygulama.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\ToDoListUygulama\ToDoListUygulama\obj\Debug\ToDoListUygulama.exe
+C:\Users\SEM\source\repos\ToDoListUygulama\ToDoListUygulama\obj\Debug\ToDoListUygulama.pdb
+C:\Users\SEM\source\repos\ToDoListUygulama\ToDoListUygulama\obj\Debug\ToDoListUygulama.sistemgiris.resources
+C:\Users\SEM\source\repos\ToDoListUygulama\ToDoListUygulama\obj\Debug\ToDoListUygulama.yenikayit.resources
+C:\Users\SEM\source\repos\ToDoListUygulama\ToDoListUygulama\obj\Debug\ToDoListUygulama.kayitliste.resources

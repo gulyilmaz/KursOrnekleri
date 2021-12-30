@@ -1,0 +1,7 @@
+C:\Users\SEM\source\repos\Delegate-Temsilciler\Delegateisimsizmetodkullanimi\bin\Debug\Delegateisimsizmetodkullanimi.exe.config
+C:\Users\SEM\source\repos\Delegate-Temsilciler\Delegateisimsizmetodkullanimi\bin\Debug\Delegateisimsizmetodkullanimi.exe
+C:\Users\SEM\source\repos\Delegate-Temsilciler\Delegateisimsizmetodkullanimi\bin\Debug\Delegateisimsizmetodkullanimi.pdb
+C:\Users\SEM\source\repos\Delegate-Temsilciler\Delegateisimsizmetodkullanimi\obj\Debug\Delegateisimsizmetodkullanimi.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\Delegate-Temsilciler\Delegateisimsizmetodkullanimi\obj\Debug\Delegateisimsizmetodkullanimi.exe
+C:\Users\SEM\source\repos\Delegate-Temsilciler\Delegateisimsizmetodkullanimi\obj\Debug\Delegateisimsizmetodkullanimi.pdb
+C:\Users\SEM\source\repos\Delegate-Temsilciler\Delegateisimsizmetodkullanimi\obj\Debug\Delegateisimsizmetodkullanimi.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\SEM\source\repos\LinqKullanimi\LinqKullanimi\bin\Debug\LinqKullanimi.exe.config
+C:\Users\SEM\source\repos\LinqKullanimi\LinqKullanimi\bin\Debug\LinqKullanimi.exe
+C:\Users\SEM\source\repos\LinqKullanimi\LinqKullanimi\bin\Debug\LinqKullanimi.pdb
+C:\Users\SEM\source\repos\LinqKullanimi\LinqKullanimi\bin\Debug\FakeData.dll
+C:\Users\SEM\source\repos\LinqKullanimi\LinqKullanimi\bin\Debug\FakeData.pdb
+C:\Users\SEM\source\repos\LinqKullanimi\LinqKullanimi\obj\Debug\LinqKullanimi.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\LinqKullanimi\LinqKullanimi\obj\Debug\LinqKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\LinqKullanimi\LinqKullanimi\obj\Debug\LinqKullanimi.csproj.CopyComplete
+C:\Users\SEM\source\repos\LinqKullanimi\LinqKullanimi\obj\Debug\LinqKullanimi.exe
+C:\Users\SEM\source\repos\LinqKullanimi\LinqKullanimi\obj\Debug\LinqKullanimi.pdb
