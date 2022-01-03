@@ -1,0 +1,13 @@
+C:\Users\SEM\source\repos\LinqOrnek\LinqOrnek\bin\Debug\LinqOrnek.exe.config
+C:\Users\SEM\source\repos\LinqOrnek\LinqOrnek\bin\Debug\LinqOrnek.exe
+C:\Users\SEM\source\repos\LinqOrnek\LinqOrnek\bin\Debug\LinqOrnek.pdb
+C:\Users\SEM\source\repos\LinqOrnek\LinqOrnek\bin\Debug\FakeData.dll
+C:\Users\SEM\source\repos\LinqOrnek\LinqOrnek\bin\Debug\FakeData.pdb
+C:\Users\SEM\source\repos\LinqOrnek\LinqOrnek\obj\Debug\LinqOrnek.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\LinqOrnek\LinqOrnek\obj\Debug\LinqOrnek.Form1.resources
+C:\Users\SEM\source\repos\LinqOrnek\LinqOrnek\obj\Debug\LinqOrnek.Properties.Resources.resources
+C:\Users\SEM\source\repos\LinqOrnek\LinqOrnek\obj\Debug\LinqOrnek.csproj.GenerateResource.cache
+C:\Users\SEM\source\repos\LinqOrnek\LinqOrnek\obj\Debug\LinqOrnek.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\LinqOrnek\LinqOrnek\obj\Debug\LinqOrnek.csproj.CopyComplete
+C:\Users\SEM\source\repos\LinqOrnek\LinqOrnek\obj\Debug\LinqOrnek.exe
+C:\Users\SEM\source\repos\LinqOrnek\LinqOrnek\obj\Debug\LinqOrnek.pdb

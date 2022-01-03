@@ -1,0 +1,10 @@
+C:\Users\SEM\source\repos\SeyahatAcentesi\SeyahatAcentesi\bin\Debug\SeyahatAcentesi.exe.config
+C:\Users\SEM\source\repos\SeyahatAcentesi\SeyahatAcentesi\bin\Debug\SeyahatAcentesi.exe
+C:\Users\SEM\source\repos\SeyahatAcentesi\SeyahatAcentesi\bin\Debug\SeyahatAcentesi.pdb
+C:\Users\SEM\source\repos\SeyahatAcentesi\SeyahatAcentesi\obj\Debug\SeyahatAcentesi.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\SeyahatAcentesi\SeyahatAcentesi\obj\Debug\SeyahatAcentesi.Form1.resources
+C:\Users\SEM\source\repos\SeyahatAcentesi\SeyahatAcentesi\obj\Debug\SeyahatAcentesi.Properties.Resources.resources
+C:\Users\SEM\source\repos\SeyahatAcentesi\SeyahatAcentesi\obj\Debug\SeyahatAcentesi.csproj.GenerateResource.cache
+C:\Users\SEM\source\repos\SeyahatAcentesi\SeyahatAcentesi\obj\Debug\SeyahatAcentesi.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\SeyahatAcentesi\SeyahatAcentesi\obj\Debug\SeyahatAcentesi.exe
+C:\Users\SEM\source\repos\SeyahatAcentesi\SeyahatAcentesi\obj\Debug\SeyahatAcentesi.pdb

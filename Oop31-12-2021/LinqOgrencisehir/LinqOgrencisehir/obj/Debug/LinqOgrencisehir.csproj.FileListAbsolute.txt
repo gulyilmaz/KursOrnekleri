@@ -1,0 +1,13 @@
+C:\Users\SEM\source\repos\LinqOgrencisehir\LinqOgrencisehir\bin\Debug\LinqOgrencisehir.exe.config
+C:\Users\SEM\source\repos\LinqOgrencisehir\LinqOgrencisehir\bin\Debug\LinqOgrencisehir.exe
+C:\Users\SEM\source\repos\LinqOgrencisehir\LinqOgrencisehir\bin\Debug\LinqOgrencisehir.pdb
+C:\Users\SEM\source\repos\LinqOgrencisehir\LinqOgrencisehir\bin\Debug\FakeData.dll
+C:\Users\SEM\source\repos\LinqOgrencisehir\LinqOgrencisehir\bin\Debug\FakeData.pdb
+C:\Users\SEM\source\repos\LinqOgrencisehir\LinqOgrencisehir\obj\Debug\LinqOgrencisehir.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\LinqOgrencisehir\LinqOgrencisehir\obj\Debug\LinqOgrencisehir.Form1.resources
+C:\Users\SEM\source\repos\LinqOgrencisehir\LinqOgrencisehir\obj\Debug\LinqOgrencisehir.Properties.Resources.resources
+C:\Users\SEM\source\repos\LinqOgrencisehir\LinqOgrencisehir\obj\Debug\LinqOgrencisehir.csproj.GenerateResource.cache
+C:\Users\SEM\source\repos\LinqOgrencisehir\LinqOgrencisehir\obj\Debug\LinqOgrencisehir.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\LinqOgrencisehir\LinqOgrencisehir\obj\Debug\LinqOgrencisehir.csproj.CopyComplete
+C:\Users\SEM\source\repos\LinqOgrencisehir\LinqOgrencisehir\obj\Debug\LinqOgrencisehir.exe
+C:\Users\SEM\source\repos\LinqOgrencisehir\LinqOgrencisehir\obj\Debug\LinqOgrencisehir.pdb
