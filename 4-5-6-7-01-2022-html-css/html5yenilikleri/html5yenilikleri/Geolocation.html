@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <p>Butona tıklayarak koordinatları görebilirsiniz.</p>
+    <iframe frameborder="1" src="" id="harita"></iframe>
+    <br />
+    <button onclick="getLocation()">Göster</button>
+    <p id="demo"></p>
+    <script>
+        var x = document.getElementById("demo");
+        function getLocation() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(showPosition);
+            }
+            else {
+                x.innerHTML = "Geolacation bu tarayıcıda desteklenmiyor";
+            }
+
+        }
+
+        function showPosition(position) {
+            x.innerHTML = "Enlem:" + position.coords.latitude + "<br>Boylam: " + position.coords.longitude;
+
+            document.getElementById("harita").setAttribute("src", "https://maps.google.com/q=" + position.coords.latitude + "," + position.coords.longitude+"&output=embed")
+        }
+
+    </script>
+
+</body>
+</html>

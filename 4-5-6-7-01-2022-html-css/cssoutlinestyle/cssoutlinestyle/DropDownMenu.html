@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        .dropbtn{
+            background-color: darkseagreen;
+            color: antiquewhite;
+            padding: 15px;
+            font-size: 15px;
+            cursor: pointer;
+        }
+
+        .dropdown{
+            position: relative;
+            display: inline-block;
+        }
+
+        .dropdown-content{
+            display: none;
+            background-color: #379268;
+            min-width: 160px;
+            box-shadow: 16px 16px 0px red;
+            position: absolute;
+            z-index: 1
+        }
+
+        .dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+        .dropdown-content a:hover {
+            background-color: #f1f1f1
+        }
+
+
+        .dropdown-content a:hover .dropdown-content {
+            display: block
+        }
+
+                    .dropdown:hover .dropbtn{
+                        background-color:lightseagreen;
+                    }
+
+    </style>
+</head>
+<body>
+    <h1>Açılır Menü</h1>
+    <div class="dropdown">
+        <button class="dropbtn">Tıkla</button>
+        <div class="dropdown-content">
+            <a href="#">Link1</a>
+            <a href="#">Link2</a>
+            <a href="#">Link3</a>
+        </div>
+
+    </div>
+
+</body>
+</html>

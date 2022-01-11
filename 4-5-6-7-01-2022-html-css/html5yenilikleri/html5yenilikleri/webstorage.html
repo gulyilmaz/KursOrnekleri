@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <!--LocalStorage- Kullanıcı veriyi silene kadar kalır.
+        sessionStorage- Kullanıcı sayfayı kapattığında silinir.
+        -->
+    <meta charset="utf-8" />
+    <title></title>
+    <script type="text/javascript">
+        //setItem(key,value)
+        //getItem(key)
+       /* sessionStorage.setItem('adsoyad', 'gülyılmaz');*/
+        sessionStorage.adsoyad = 'test';
+      /*  alert(sessionStorage.getItem('adsoyad'));*/
+        /*alert(sessionStorage.adsoyad);*/
+        localStorage.user = 'gulyilmaz';
+        delete localStorage.user;
+
+        //dizi şeklinde veri tutmada kalındı
+
+        //localStorage.users = [
+        //    {
+        //        'name': 'gül',
+        //        'surname': ' yılmaz'
+        //    },
+        //    {
+        //        'name': 'mert',
+        //        'surname': 'mutlu'
+        //    }
+
+        //];
+
+
+        localStorage.users = JSON.stringify([
+            {
+                'name': 'gül',
+                'surname': ' yılmaz'
+            },
+            {
+                'name': 'mert',
+                'surname': 'mutlu'
+            }
+
+        ]);
+        console.log(JSON.parse(localStorage.users));
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

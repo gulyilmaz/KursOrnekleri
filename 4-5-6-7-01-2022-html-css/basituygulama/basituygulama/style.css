@@ -1,0 +1,68 @@
+﻿body {
+    background-color:#CC5200;
+    text-align:center;
+    font-size:30px;
+  
+
+}
+#anadiv{
+    width:800px;
+    margin:0 auto;
+    background:white;
+}
+#logo{
+    width:180px;
+    height:150px;
+    color:#3FA43A;
+    float:left;
+    border:2px solid red;
+}
+#reklam{
+    width:400px;
+    height:150px;
+    float:right;
+    border:2px solid red
+}
+.temizle{
+    clear:both;
+}
+#menu {
+    width: 600px;
+    float: right;
+    border: 2px solid red;
+    margin-top: 10px;
+}
+#icerik{
+    height:500px;
+    border:2px solid red;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+#sagicerik{
+    width:450px;
+    float:right;
+    height:430px;
+    border:2px solid red;
+    margin:30px
+}
+#solicerik{
+    float:left;
+    width:180px;
+    height:150px;
+    border:2px solid red;
+    margin:30px
+}
+#solalt{
+    width:550px;
+    height:50px;
+    float:left;
+    border:2px solid red;
+    background:#FFF
+}
+#sagalt{
+    width:230px;
+    height:50px;
+    float:right;
+    border:2px solid red;
+    background:#FFF
+}

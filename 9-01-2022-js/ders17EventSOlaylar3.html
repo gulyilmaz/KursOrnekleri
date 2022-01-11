@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    #div1{
+        border:1px solid purple;
+    }
+</style>
+<body>
+    <div id="div1">Gül Yılmaz</div>
+    <script>
+        var divim=document.getElementById("div1");
+        divim.onmouseover=function(){
+            divim.innerHTML="üzerine gelindi";
+            divim.style.border="2px solid blue";
+        }
+        divim.onmouseout=function(){
+            divim.innerHTML="Gül Yılmaz";
+            divim.style.border="1px solid purple";
+        }
+        divim.onmousedown=function(){
+            divim.innerHTML="mouse a basıldı";
+        }
+        divim.onmouseup=function(){
+            divim.innerHTML="mouse dan el kaldırıldı";
+        }
+    </script>
+</body>
+</html>

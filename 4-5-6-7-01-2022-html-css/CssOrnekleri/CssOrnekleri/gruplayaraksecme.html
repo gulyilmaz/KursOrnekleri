@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        /**{
+            background-color:red
+        }
+*/
+        div .pargraf1{
+            color:wheat;
+            background-color:blueviolet
+        }
+        div p{
+            color:cornflowerblue !important
+        }
+
+        #divsizp ~ div{
+            /* divsizp den sonra gelen kardeşlerinden div olanların rengini değiştirir*/
+            color:blue
+        }
+        .pargraf4 ~ p{
+            background-color:orange
+        }
+        #divsizp +div{ /*Divsizp den sonra gelen ilk dive uygular*/
+            color:yellow
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        Burası Divin İçi
+        <p class="pargraf1">Paragraf1</p>
+        <p class="pargraf2">Paragraf2</p>
+        <p class="pargraf3">Paragraf3</p>
+    </div>
+    <p class="pargraf4">DEneme</p>
+    <p id="divsizp">Divsiz Paragraf</p>
+    <div class="container">
+        <h2>Div</h2>
+        <p>divin içindeki p</p>
+
+    </div>
+    <p>Merhaba</p>
+    <div>deneme div</div>
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="hakkimizda">
+        <p id="vizyon">Vizyonumuz</p>
+        <p id="misyon">Misyonumuz</p>
+    </div>
+    <script>
+        var yeniparagraf=document.createElement("p");
+        var yeniparagraftext=document.createTextNode("Hedeflerimiz");
+        yeniparagraf.appendChild(yeniparagraftext);
+        var hakkimizda=document.getElementById("hakkimizda");
+        var vizyon=document.getElementById("vizyon");
+        hakkimizda.replaceChild(yeniparagraf,vizyon);
+    </script>
+</body>
+</html>

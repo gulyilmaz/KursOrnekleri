@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        img{
+            border:2px solid green
+        }
+        img[title="renk"]{
+            border:4px dashed red
+        }
+        img[width="50%"]
+        {
+            border:orange 3px dashed
+        }
+        p[title^="bu"]{
+            color:brown
+        }
+        p[title$="paragraftır"]{
+            color:purple
+        }
+        p[title~="bir"]{
+            color:crimson
+        }
+        a[href="https://google.com.tr"]{
+            color:yellow
+        }
+        a[target="_blank"]{
+            background-color:darkgray
+        }
+        a[href="https://google.com.tr"][title="de"]{
+            color:purple;
+            text-decoration:dashed
+        }
+    </style>
+</head>
+<body>
+    <p title="bu bir paragraftır">Paragraf1</p>
+    <p title="bu bir paragraf değildir">Paragraf2</p>
+    <p title="bir paragraftır">Paragraf3</p>
+    <a href="https://google.com.tr" title="de">Google</a>
+    <a href="https://youtube.com" target="_blank">Youtube</a>
+    <a href="https://google.com.tr">Google</a>
+    <br />
+    <img src="komedi.jpg" title="renk" />
+    <br />
+    <img src="komedi.jpg" />
+    <br />
+    <img src="komedi.jpg" width="50%" />
+
+</body>
+</html>

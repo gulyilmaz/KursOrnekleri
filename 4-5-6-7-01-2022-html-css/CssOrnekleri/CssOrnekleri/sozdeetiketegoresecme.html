@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        /*Pseudo Element*/
+        p::first-letter{
+            color:yellow;
+            background-color:green
+        }
+        p{
+            background-color:red
+        }
+        h2::first-line{
+            color:purple
+        }
+        h1::after{
+            content:"Günü";
+            background-color:orange
+        }
+        h1::before{
+            content:"Bugün";
+            background-color:tomato
+        }
+        /*Pseudo Clas*/
+        a:link{
+            color:red;
+              text-decoration:none  
+        }
+        a:hover{
+            color:forestgreen;
+            text-decoration:underline
+        }
+        a:active{
+            color:blue
+        }
+        a:visited{
+            color:chartreuse;
+            text-decoration:underline
+        }
+
+
+
+    </style>
+</head>
+
+<body>
+    <p>Gül Yılmaz</p>
+    <h2>Çarşamba<br />Günü</h2>
+    <h1>Perşembe</h1>
+    <a href="#">Tıklayın</a>
+
+</body>
+</html>

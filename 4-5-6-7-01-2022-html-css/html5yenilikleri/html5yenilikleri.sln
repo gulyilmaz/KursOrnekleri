@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "html5yenilikleri", "html5yenilikleri\html5yenilikleri.csproj", "{744F6FE5-ADEF-455F-A8A4-3C73F6E12722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{744F6FE5-ADEF-455F-A8A4-3C73F6E12722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744F6FE5-ADEF-455F-A8A4-3C73F6E12722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744F6FE5-ADEF-455F-A8A4-3C73F6E12722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744F6FE5-ADEF-455F-A8A4-3C73F6E12722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1920E94A-875D-41A1-A11C-FB60F5046140}
+	EndGlobalSection
+EndGlobal
