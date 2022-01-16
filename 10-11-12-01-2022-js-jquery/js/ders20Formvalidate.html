@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="" onsubmit="return Validate()">
+        <input type="password" name="sifre" placeholder="Şifreyi giriniz"><br/>
+        <input type="password" name="sifre"placeholder="Şifreyi tekrar giriniz"><br/>
+        <input type="submit" value="Kayıt Ol">
+
+    </form>
+    
+    <script>
+
+function Validate(){
+var pass=document.getElementsByName("sifre")[0];
+var repass=document.getElementsByName("sifre")[1];
+ if(pass.value!="" && repass.value!=""){
+
+        if(pass.value == repass.value){
+        alert("Kaydınız Tamamlandı");
+        return true;
+    }
+}
+
+    alert("Girilen şifreler eşleşmiyor");
+    return false;
+
+
+}
+
+    </script>
+    
+</body>
+</html>

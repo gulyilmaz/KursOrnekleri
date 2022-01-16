@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <style>
+        .listelemani {
+            margin-left: 10px;
+            background: white;
+            color: red;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Yapılcaklar Listesi</h1>
+    <input type="text" placeholder="Yeni bir yapılacak giriniz">
+    <button id="eklemebutonu">Ekle</button>
+    <ol id="listemiz"> </ol>
+    <script>
+        $("#eklemebutonu").on("click", function () {
+            var inputdeger = $("input").val();
+            if (inputdeger != "") {
+
+                var listitem = $("<li></li>").text(inputdeger);
+                $(listitem).append("<button class=\"listelemani\">X</button>");
+                $("#listemiz").append(listitem);
+                $("input").val("");
+                $(".listelemani").on("click", function () {
+                    $(this).parent().remove();
+                });
+            }
+        });
+    </script>
+</body>
+
+</html>

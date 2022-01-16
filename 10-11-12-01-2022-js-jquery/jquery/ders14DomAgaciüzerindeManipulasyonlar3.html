@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+ <style>
+     div{
+         height: 150px;
+         width: 300px;
+         border: 2px dashed purple;
+     }
+ </style>
+</head>
+<body>
+    <div>
+    <ul>
+        <li>İtem1</li>
+        <li>İtem2</li>
+        <li>İtem3</li>
+        <li>İtem4</li>
+        <li>İtem5</li>
+    </ul>
+</div>
+    <button onclick="sil()">Sil</button>
+    <script>
+        var x=$("li").length;
+        function sil(){
+           // $("li").eq(2).remove();
+           if(x>=0){
+              // $("li").eq(x).remove();
+              $("li").eq(x-1).empty();
+               x--;
+           }
+         if(x<0){
+             $("button").eq(0).css("display","none");
+         }
+        }
+    </script>
+</body>
+</html>

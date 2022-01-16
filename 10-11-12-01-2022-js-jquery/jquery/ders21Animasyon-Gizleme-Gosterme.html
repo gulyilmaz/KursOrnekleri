@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <style>
+        p {
+            background: red;
+            text-align: center;
+            color: yellow;
+            padding: 10px;
+            cursor: pointer;
+        }
+
+        div {
+            background: blue;
+            color: antiquewhite;
+          display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- <p>Divi Aç</p> -->
+    <p>FadeIn</p>
+    <p>FadeOut</p>
+    <p>FadeToggle</p>
+
+    <div>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam assumenda molestias possimus laboriosam, est
+        eaque cupiditate itaque modi in similique eligendi sunt natus hic architecto.
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam assumenda molestias possimus laboriosam, est
+        eaque cupiditate itaque modi in similique eligendi sunt natus hic architecto.
+    </div>
+    <script>
+        $(function () {
+            $("p").eq(0).click(function () {
+                //$("div").show(3000);
+                //$("div").hide(3000);
+               // $("div").toggle(3000);
+           
+              // $("div").fadeOut(3000);
+              //$("div").fadeToggle(3000);
+              $("div").fadeIn(3000);
+            });
+            $("p").eq(1).click(function () {
+               
+               $("div").fadeOut(3000);
+              
+            });
+            $("p").eq(2).click(function () {
+                
+              $("div").fadeToggle(3000);
+            });
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        img{
+            width: 400px;
+            height: 250px;
+        }
+    </style>
+</head>
+<body>
+<div>
+<button onclick="oncekifotoyugetir()">Önceki</button>
+<img src="images/1.jpg" alt="" id="slider">
+<button onclick="sonrakifotoyugetir()">Sonraki</button>
+</div>
+<script>
+    var resimler=[
+"images/1.jpg",
+"images/2.jpg",
+"images/3.jpg",
+"images/4.jpg"
+    ];
+var mevcutresimindex=0;
+    function sonrakifotoyugetir(){
+      var slider=document.getElementById("slider");
+      mevcutresimindex++;
+      if(mevcutresimindex>=resimler.length){
+          mevcutresimindex=0;
+      }
+      slider.src=resimler[mevcutresimindex];        
+   }
+    function oncekifotoyugetir(){
+var slider=document.getElementById("slider");
+mevcutresimindex--;
+if(mevcutresimindex<0){
+    mevcutresimindex=resimler.length-1;
+}
+slider.src=resimler[mevcutresimindex];
+
+    }
+
+
+
+
+</script>
+
+</body>
+</html>

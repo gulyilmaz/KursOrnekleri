@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+<body>
+    <p id="p1">Paragraf</p>
+    <script>
+// $("#p1").append(" <i>Sonuna Ekledim</i>");
+// $("#p1").prepend("Başına ekledim ");
+// $("#p1").before("<h1>Başına ekledim</h1>");
+//$("#p1").after("<p>Sonuna ekledim</p>");
+var yeniparagraf=$("<p></p>").text("paragraf2");
+$("#p1").after(yeniparagraf);
+    </script>
+</body>
+</html>

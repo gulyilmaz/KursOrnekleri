@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+        }
+
+        div {
+            height: 300px;
+            width: 300px;
+            background-color: yellow;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- <button>0</button>
+    <button>1</button>
+    <button>2</button> -->
+    <button>Gül</button>
+    <button><b>Sena</b></button>
+    <button>Eda</button>
+    <div>0</div>
+
+    <script>
+        // $("div").click(function (event) {
+        //     $("div").text(event.pageX + " " + event.pageY);
+        // });
+        // $("div").mouseenter(function (event) {
+        //     $("div").text(event.type);
+        // });
+        // $("div").mouseout(function (event) {
+        //     $("div").text(event.type);
+        // });
+
+        // $("div").click(function (event) {
+        //     $("div").text(event.type);
+        // });
+        // $("div").mousedown(function (event) {
+        //     $("div").text(event.type);
+        // });
+        // $("button").eq(0).click({val:5},function(event){
+        //     $("div").text(event.data.val);
+        // });
+        // $("button").eq(0).click({isim:"Gül",soyisim:"yılmaz",yas:28},function(event){
+        //     $("div").text(event.data.isim+" "+ event.data.soyisim+" "+event.data.yas);
+        // });
+        // $("button").eq(0).click({ deger: 0 }, function (event) {
+        //     $("div").text(event.data.deger)
+        // });
+
+        // for (i = 0; i < $("button").length; i++) {
+        //     $("button").eq(i).click({ deger: i }, function (event) {
+        //         $("div").text(event.data.deger);
+        //     });
+        // }
+        for(i=0;i<$("button").length;i++)
+        {$("button").eq(i).click({deger:i},function(event){
+            $("div").html($("button").eq(event.data.deger).html());
+        })
+
+        }
+    </script>
+</body>
+
+</html>
