@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Json", "Json\Json.csproj", "{3EC7742A-80E0-4B85-A840-F0AF1870FAEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jsonokuma", "Jsonokuma\Jsonokuma.csproj", "{2D88C91C-95B1-4FAA-858B-C197F8709D1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsonproject2", "jsonproject2\jsonproject2.csproj", "{F0DC1B17-F43F-4855-B440-32EEA423C275}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EC7742A-80E0-4B85-A840-F0AF1870FAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC7742A-80E0-4B85-A840-F0AF1870FAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC7742A-80E0-4B85-A840-F0AF1870FAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC7742A-80E0-4B85-A840-F0AF1870FAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D88C91C-95B1-4FAA-858B-C197F8709D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D88C91C-95B1-4FAA-858B-C197F8709D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D88C91C-95B1-4FAA-858B-C197F8709D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D88C91C-95B1-4FAA-858B-C197F8709D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0DC1B17-F43F-4855-B440-32EEA423C275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0DC1B17-F43F-4855-B440-32EEA423C275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0DC1B17-F43F-4855-B440-32EEA423C275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0DC1B17-F43F-4855-B440-32EEA423C275}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99DF7F36-521D-446E-B38D-47D0F4DBA259}
+	EndGlobalSection
+EndGlobal

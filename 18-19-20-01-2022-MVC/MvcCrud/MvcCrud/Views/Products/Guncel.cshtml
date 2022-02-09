@@ -1,0 +1,74 @@
+﻿@model MvcCrud.Models.Dto.ProductsModel
+
+@{
+    ViewBag.Title = "Guncel";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+<h2>Güncelleme</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <h4>ProductsModel</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(x => x.Products.ProductName, htmlAttributes: new
+      {
+          @class = "control-label col-md-2"
+      })
+
+        <div class="col-md-10">
+            @Html.EditorFor(x => x.Products.ProductName, new { htmlAttributes = new { @class = "form-control" } })
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        @Html.LabelFor(x => x.Products.SupplierID, htmlAttributes: new
+      {
+          @class = "control-label col-md-2"
+      })
+
+        <div class="col-md-10">
+            @Html.DropDownListFor(m => m.Products.SupplierID, Model.SupliersForDropDown, new { htmlAttributes = new { @class = "form-control" } })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(x => x.Products.CategoryID, htmlAttributes: new
+      {
+          @class = "control-label col-md-2"
+      })
+
+        <div class="col-md-10">
+            @Html.DropDownListFor(m => m.Products.CategoryID, Model.CategoriesForDropDown, new { htmlAttributes = new { @class = "form-control" } })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(x => x.Products.UnitPrice, htmlAttributes: new
+      {
+          @class = "control-label col-md-2"
+      })
+
+        <div class="col-md-10">
+            @Html.EditorFor(x => x.Products.UnitPrice, new { htmlAttributes = new { @class = "form-control" } })
+        </div>
+    </div>
+
+    <div class="form-group">
+
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Save" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+
+<div>
+    @Html.ActionLink("Listeye Dön", "Liste")
+</div>

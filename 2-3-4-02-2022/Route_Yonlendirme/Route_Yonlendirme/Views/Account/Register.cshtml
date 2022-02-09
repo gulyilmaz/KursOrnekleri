@@ -1,0 +1,21 @@
+﻿@model Route_Yonlendirme.Models.usertablo
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Register</h2>
+
+@using (Html.BeginForm())
+{<div class="form-group">
+        <label for="firstname">First Name</label>
+        @Html.TextBoxFor(x => x.firstname, new { @class = "form-group" })
+    </div>
+    <br />
+    <div class="form-group">
+        <label for="lastname">Last Name</label>
+        @Html.TextBoxFor(x => x.lastname, new { @class = "form-group" })
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary"> Register</button>
+
+}

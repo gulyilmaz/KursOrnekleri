@@ -1,0 +1,35 @@
+﻿@model MvcCrud.Models.Dto.CategoriesModel
+@{
+    ViewBag.Title = "Detay";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+<h2>Detay</h2>
+<div>
+    <h4>Categories</h4>
+    <hr />
+    <dl class="dl-horizantal">
+        <dt>
+            @Html.DisplayNameFor(m => m.categories.CategoryID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(m => m.categories.CategoryID)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(m => m.categories.CategoryName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(m => m.categories.CategoryName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(m => m.categories.Description)
+        </dt>
+        <dd>
+            @Html.DisplayFor(m => m.categories.Description)
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Listeye geri dön","Liste")
+</p>
+

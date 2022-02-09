@@ -1,0 +1,46 @@
+﻿@model MvcCrud.Models.Dto.CategoriesModel
+
+@{
+    ViewBag.Title = "Ekle";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+<h2>Ekle</h2>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>CategoriesModel</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.categories.CategoryID, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(m => m.categories.CategoryID, new { htmlAttributes = new { @class = "form-control" } })
+        </div>
+
+        @Html.LabelFor(m => m.categories.CategoryName, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(m => m.categories.CategoryName, new { htmlAttributes = new { @class = "form-control" } })
+        </div>
+        @Html.LabelFor(m => m.categories.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(m => m.categories.Description, new { htmlAttributes = new { @class = "form-control" } })
+        </div>
+
+
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Ekle" class="btn btn-default" />
+        </div>
+    </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Listeye Geri Dön", "Liste")
+</div>

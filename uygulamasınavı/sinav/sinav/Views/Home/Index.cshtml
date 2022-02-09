@@ -1,0 +1,145 @@
+﻿@model sinav.Models.ProductsModelView
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    //var mesaj = TempData["Mesaj"] != null ? TempData["Mesaj"] : null ;
+}
+
+
+<header class="row tm-welcome-section">
+    <h2 class="col-12 text-center tm-section-title">Gizli Bahçeye Hoşgeldiniz</h2>
+    <p class="col-12 text-center">Unutulmaz tatları farklı lokasyonlarda sunan Gizli Bahçe, dünyaca ünlü şeflerinin ellerinden gurme lezzetleri misafirleri ile paylaşıyor.</p>
+</header>
+
+<div class="tm-paging-links">
+    <nav>
+        <ul>
+            <li class="tm-paging-item"><a href="#" class="tm-paging-link active">Tümü</a></li>
+            @foreach (var item in Model.Klist)
+            {
+                <li class="tm-paging-item"><a href="#" class="tm-paging-link">@item.KategoriAd</a></li>
+
+            }
+            @*<li class="tm-paging-item"><a href="#" class="tm-paging-link active">Pizza</a></li>
+        <li class="tm-paging-item"><a href="#" class="tm-paging-link">Salad</a></li>
+        <li class="tm-paging-item"><a href="#" class="tm-paging-link">Noodle</a></li>*@
+        </ul>
+    </nav>
+</div>
+
+<!-- Gallery -->
+<div class="row tm-gallery">
+    <div id="tm-gallery-page-tümü" class="tm-gallery-page">
+        @foreach (var item in Model.Ulist)
+        {
+            
+                <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item" >
+                    <figure>
+
+                        
+                            <img src="/Content/img/gallery/@item.UrunResim" alt="Image" class="img-fluid tm-gallery-img" />
+                            <figcaption>
+                                <a href="/Urun/Detay/@item.UrunId" class="tm-gallery-title">
+                                    <h4 class="tm-gallery-title">@item.UrunAd</h4>
+                                </a>
+                              
+                                    <p class="tm-gallery-description">@item.UrunAciklama</p>
+                                    <p class="tm-gallery-price">@string.Format("{0:C1}", item.Fiyat)</p>
+
+                            </figcaption>
+                       
+                    </figure>
+                </article>
+
+            
+        }
+
+
+    </div>
+    <!-- gallery page 1 -->
+    <div id="tm-gallery-page-pizza" class="tm-gallery-page">
+        @foreach (var item in Model.Ulist)
+        {
+            if (item.Kategori.KategoriAd == "Pizza")
+            {
+                <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+                    <figure>
+                        <img src="~/Content/img/gallery/@item.UrunResim" alt="Image" class="img-fluid tm-gallery-img" />
+                        <figcaption>
+                            <a href="/Urun/Detay/@item.UrunId" class="tm-gallery-title">
+                                <h4 class="tm-gallery-title">@item.UrunAd</h4>
+                            </a>
+                            <p class="tm-gallery-description">@item.UrunAciklama</p>
+                            <p class="tm-gallery-price">@string.Format("{0:C1}", item.Fiyat)</p>
+                        </figcaption>
+                    </figure>
+                </article>
+
+            }
+        }
+
+
+    </div> <!-- gallery page 1 -->
+    <!-- gallery page 2 -->
+    <div id="tm-gallery-page-salata" class="tm-gallery-page hidden">
+        @foreach (var item in Model.Ulist)
+        {
+            if (item.Kategori.KategoriAd == "Salata")
+            {
+                <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+                    <figure>
+                        <img src="~/Content/img/gallery/@item.UrunResim" alt="Image" class="img-fluid tm-gallery-img" />
+                        <figcaption>
+                            <a href="/Urun/Detay/@item.UrunId" class="tm-gallery-title">
+                                <h4 class="tm-gallery-title">@item.UrunAd</h4>
+                            </a>
+                            <p class="tm-gallery-description">@item.UrunAciklama</p>
+                            <p class="tm-gallery-price">@string.Format("{0:C1}", item.Fiyat)</p>
+                        </figcaption>
+                    </figure>
+                </article>
+
+            }
+        }
+
+    </div> <!-- gallery page 2 -->
+    <!-- gallery page 3 -->
+    <div id="tm-gallery-page-noodle" class="tm-gallery-page hidden">
+        @foreach (var item in Model.Ulist)
+        {
+            if (item.Kategori.KategoriAd == "Noodle")
+            {<article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+                    <figure>
+                        <img src="~/Content/img/gallery/@item.UrunResim" alt="Image" class="img-fluid tm-gallery-img" />
+                        <figcaption>
+                            <a href="/Urun/Detay/@item.UrunId" class="tm-gallery-title">
+                                <h4 class="tm-gallery-title">@item.UrunAd</h4>
+                            </a>
+                            <p class="tm-gallery-description">@item.UrunAciklama</p>
+                            <p class="tm-gallery-price">@string.Format("{0:C1}", item.Fiyat)</p>
+                        </figcaption>
+                    </figure>
+                </article>
+
+            }
+        }
+
+    </div> <!-- gallery page 3 -->
+</div>
+@*<div class="tm-section tm-container-inner">
+    <div class="row">
+        <div class="col-md-6">
+            <figure class="tm-description-figure">
+                <img src="~/Content/img/img-01.jpg" alt="Image" class="img-fluid" />
+            </figure>
+        </div>
+        <div class="col-md-6">
+            <div class="tm-description-box">
+                <h4 class="tm-gallery-title">Maecenas nulla neque</h4>
+                <p class="tm-mb-45">Redistributing this template as a downloadable ZIP file on any template collection site is strictly prohibited. You will need to <a rel="nofollow" href="https://templatemo.com/contact">talk to us</a> for additional permissions about our templates. Thank you.</p>
+                <a href="about.html" class="tm-btn tm-btn-default tm-right">Read More</a>
+            </div>
+        </div>
+    </div>
+</div>*@

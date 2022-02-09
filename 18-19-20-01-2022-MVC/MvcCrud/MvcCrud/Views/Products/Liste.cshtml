@@ -1,0 +1,65 @@
+﻿@model MvcCrud.Models.Dto.ProductsModel
+
+@{
+    ViewBag.Title = "Liste";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+<h2>Ürün Liste</h2>
+<div>
+<form method="get"action="/Products/Liste"class="d-inline-flex">
+<input type="search"name="name"class="form-control"placeholder="Arama" />
+    <button class="btn btn-success" type="submit">Ara</button>
+</form>
+</div>
+@*<p>
+    @Html.ActionLink("Create New", "Create")
+</p>*@
+<hr />
+<a class="btn btn-info float-right" href="/Products/Ekle">Yeni Kayıt</a>
+<table class="table">
+    <tr>
+        <th>@Html.DisplayNameFor(m => m.Products.ProductID)</th>
+        <th>@Html.DisplayNameFor(m => m.Products.ProductName)</th>
+        <th>@Html.DisplayNameFor(m => m.Products.Categories.CategoryName)</th>
+        <th>@Html.DisplayNameFor(m => m.Products.Suppliers.CompanyName)</th>
+        <th>@Html.DisplayNameFor(m => m.Products.UnitPrice)</th>
+        <th>@Html.DisplayNameFor(m => m.Products.Discontinued)</th>
+        <th>Detay</th>
+        <th>Güncelle</th>
+        <th>Sil</th>
+    </tr>
+
+@foreach (var item in Model.plist) {
+<tr>
+    <td>@item.ProductId</td>
+    <td>@item.ProductName</td>
+    <td>@item.CategoryName</td>
+    <td>@item.CompanyName</td>
+    <td>@item.UnitPrice</td>
+    <td>@item.Discontinued</td>
+
+
+
+    <td class="text-center">
+        <a href="/Products/Detay/@item.ProductId">
+            <i class="fas fa-search"></i>
+
+        </a>
+    </td>
+    <td class="text-center">
+        <a href="/Products/Guncel/@item.ProductId">
+            <i class="fas  fa-pen-alt text-black text-success"></i>
+
+        </a>
+    </td>
+    <td class="text-center">
+        <a href="/Products/Sil/@item.ProductId">
+            <i class="fas fa-trash-alt"></i>
+
+        </a>
+    </td>
+</tr>
+}
+
+</table>

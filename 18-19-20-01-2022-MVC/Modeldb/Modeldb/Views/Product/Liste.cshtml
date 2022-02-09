@@ -1,0 +1,46 @@
+﻿@model Modeldb.Models.MultiModel
+@{
+    ViewBag.Title = "Liste";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+<h2>Kategori Liste</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Ad</th>
+            <th>Açıklma</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.clist)
+        {<tr>
+        <td>@item.CategoryID</td>
+        <td>@item.CategoryName</td>
+        <td>@item.Description</td>
+        </tr>
+
+        }
+    </tbody>
+</table>
+<h2> Ürün liste</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Ad</th>
+            <th>Fiyat</th>
+        </tr>
+    </thead>
+    <tbody>
+       @foreach (var item in Model.plist)
+       {
+           <tr>
+               <td>@item.ProductID</td>
+               <td>@item.ProductName</td>
+               <td>@item.UnitPrice</td>
+           </tr>
+       }
+    </tbody>
+</table>

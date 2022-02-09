@@ -1,0 +1,35 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        function getProducts() {
+            $.ajax({
+                url: "/Product/GetAll",
+                dataType: "json",
+                success: function (data) {
+                    for (var i = 0; i < data.length; i++) {
+                     $("#listproduct").append("<li>" + data[i].ProductName + "-" + data[i].UnitPrice + "</li>")
+                    }
+                }
+
+
+            });
+        }
+    </script>
+</head>
+<body>
+    <div> 
+        <button onclick="getProducts()">Ürünleri Getir</button>
+        <ul id="listproduct"></ul>
+    </div>
+</body>
+</html>

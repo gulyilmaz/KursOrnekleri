@@ -1,0 +1,59 @@
+﻿@model MvcCrud.Models.Dto.CategoriesModel
+
+@{
+    ViewBag.Title = "Liste";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+<h2>Kategori Liste</h2>
+<div>
+    <form method="get" action="/Categories/Liste" class="d-inline-flex">
+        <input type="search" name="name" class="form-control" id="form-group-input" placeholder="Arama" />
+        <button class="btn btn-success">Ara</button>
+    </form>
+</div>
+<hr />
+<a class="btn btn-info float-right" href="/Categories/Ekle">Yeni Kayıt</a>
+
+<table class="table table-bordered table-hover table-responsive">
+    <thead>
+        <tr>
+            <th> @Html.DisplayNameFor(m => m.categories.CategoryID)</th>
+            <th> @Html.DisplayNameFor(m => m.categories.CategoryName)</th>
+            <th> @Html.DisplayNameFor(m => m.categories.Description)</th>
+            <th>Detay</th>
+            <th>Güncelle</th>
+            <th>Sil</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.clist)
+        {
+        <tr>
+            <td>@item.CategoryID</td>
+            <td>@item.CategoryName</td>
+            <td>@item.Description</td>
+            <td class="text-center">
+                <a href="/Categories/Detay/@item.CategoryID">
+                    <i class="fas fa-search"></i>
+
+                </a>
+            </td>
+            <td class="text-center">
+                <a href="/Categories/Guncel/@item.CategoryID">
+                    <i class="fas  fa-pen-alt text-black text-success"></i>
+
+                </a>
+            </td>
+            <td class="text-center">
+                <a href="/Categories/Sil/@item.CategoryID">
+                    <i class="fas fa-trash-alt"></i>
+
+                </a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+

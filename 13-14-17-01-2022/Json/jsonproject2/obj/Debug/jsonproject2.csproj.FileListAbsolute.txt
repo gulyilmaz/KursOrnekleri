@@ -1,0 +1,13 @@
+C:\Users\SEM\source\repos\Json\jsonproject2\bin\Debug\jsonproject2.exe.config
+C:\Users\SEM\source\repos\Json\jsonproject2\bin\Debug\jsonproject2.exe
+C:\Users\SEM\source\repos\Json\jsonproject2\bin\Debug\jsonproject2.pdb
+C:\Users\SEM\source\repos\Json\jsonproject2\obj\Debug\jsonproject2.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\Json\jsonproject2\obj\Debug\jsonproject2.Form1.resources
+C:\Users\SEM\source\repos\Json\jsonproject2\obj\Debug\jsonproject2.Properties.Resources.resources
+C:\Users\SEM\source\repos\Json\jsonproject2\obj\Debug\jsonproject2.csproj.GenerateResource.cache
+C:\Users\SEM\source\repos\Json\jsonproject2\obj\Debug\jsonproject2.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\Json\jsonproject2\obj\Debug\jsonproject2.exe
+C:\Users\SEM\source\repos\Json\jsonproject2\obj\Debug\jsonproject2.pdb
+C:\Users\SEM\source\repos\Json\jsonproject2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SEM\source\repos\Json\jsonproject2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SEM\source\repos\Json\jsonproject2\obj\Debug\jsonproject2.csproj.CopyComplete

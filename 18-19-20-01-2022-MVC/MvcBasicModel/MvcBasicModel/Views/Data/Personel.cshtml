@@ -1,0 +1,30 @@
+﻿@model List< MvcBasicModel.Personel>
+@{
+    ViewBag.Title = "Personel";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+<h2>Personel Listesi</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Ad</th>
+            <th>Soyad</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@item.id</td>
+                    <td>@item.Ad</td>
+                    <td>@item.Soyad</td>
+                </tr>
+            }
+
+
+    </tbody>
+
+</table>
+

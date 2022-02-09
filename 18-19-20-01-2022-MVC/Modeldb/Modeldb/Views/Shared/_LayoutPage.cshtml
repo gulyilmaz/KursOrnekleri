@@ -1,0 +1,24 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+
+</head>
+<body>
+    <div>
+        <h2>Multi Model</h2>
+        <a href="/Home/Index">Ana Sayfa</a>
+        <a href="/Product/Liste">Ürünler</a>
+    </div>
+    <div> 
+        @RenderBody()
+    </div>
+</body>
+</html>

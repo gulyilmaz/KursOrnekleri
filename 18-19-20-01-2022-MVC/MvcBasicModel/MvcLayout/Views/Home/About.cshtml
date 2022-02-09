@@ -1,0 +1,25 @@
+﻿@model List<hakkimizda>
+@{
+    ViewBag.Title = "About";
+    Layout = "~/Views/Shared/_LayaoutPage.cshtml";
+}
+
+<h2>Genel Bilgilerimiz</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Ad</th>
+            <th>SoyAd</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {<tr>
+        <td>@item.Ad</td>
+        <td>@item.Soyad</td>
+        </tr>
+
+        }
+    </tbody>
+</table>
+

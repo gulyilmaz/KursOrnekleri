@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<header class="row tm-welcome-section">
+    <h2 class="col-12 text-center tm-section-title">İletişim Sayfası</h2>
+    <p class="col-12 text-center">Formu doldurarak bizimle iletişime geçebilirsiniz</p>
+</header>
+
+<div class="tm-container-inner-2 tm-contact-section">
+    <div class="row">
+        <div class="col-md-6">
+            <form action="" method="POST" class="tm-contact-form">
+                <div class="form-group">
+                    <input type="text" name="ad" class="form-control" placeholder="Adınız" required="" />
+                </div>
+
+                <div class="form-group">
+                    <input type="email" name="email" class="form-control" placeholder="Email Adresiniz" required="" />
+                </div>
+
+                <div class="form-group">
+                    <textarea rows="5" name="mesaj" class="form-control" placeholder="Mesajınız" required=""></textarea>
+                </div>
+
+                <div class="form-group tm-d-flex">
+                    <button type="submit" class="tm-btn tm-btn-success tm-btn-right">
+                        Gönder
+                    </button>
+                </div>
+            </form>
+        </div>
+        <div class="col-md-6">
+            <div class="tm-address-box">
+                <h4 class="tm-info-title tm-text-success">Adres</h4>
+                <address>
+                    Balat, Ayvansaray Cd. No:45 D:45, 34087 Fatih
+                </address>
+                <a href="tel:080-090-0110" class="tm-contact-link">
+                    <i class="fas fa-phone tm-contact-icon"></i>0212 876 85 23
+                </a>
+                <a href="mailto:gulyilmaz@gmail.com" class="tm-contact-link">
+                    <i class="fas fa-envelope tm-contact-icon"></i>gulyilmaz@gmail.com
+                </a>
+                <div class="tm-contact-social">
+                    <a href="https://fb.com/templatemo" class="tm-social-link"><i class="fab fa-facebook tm-social-icon"></i></a>
+                    <a href="#" class="tm-social-link"><i class="fab fa-twitter tm-social-icon"></i></a>
+                    <a href="#" class="tm-social-link"><i class="fab fa-instagram tm-social-icon"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

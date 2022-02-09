@@ -1,0 +1,12 @@
+C:\Users\SEM\source\repos\Json\Json\bin\Debug\Json.exe.config
+C:\Users\SEM\source\repos\Json\Json\bin\Debug\Json.exe
+C:\Users\SEM\source\repos\Json\Json\bin\Debug\Json.pdb
+C:\Users\SEM\source\repos\Json\Json\bin\Debug\FakeData.dll
+C:\Users\SEM\source\repos\Json\Json\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SEM\source\repos\Json\Json\bin\Debug\FakeData.pdb
+C:\Users\SEM\source\repos\Json\Json\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SEM\source\repos\Json\Json\obj\Debug\Json.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\Json\Json\obj\Debug\Json.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\Json\Json\obj\Debug\Json.csproj.CopyComplete
+C:\Users\SEM\source\repos\Json\Json\obj\Debug\Json.exe
+C:\Users\SEM\source\repos\Json\Json\obj\Debug\Json.pdb

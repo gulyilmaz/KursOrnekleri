@@ -1,0 +1,25 @@
+﻿@*
+    Model tanımı yapılır aynı tipte
+*@
+@model MvcBasicModel.Master
+@{
+    ViewBag.Title = "Webmaster";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+<h2>Webmaster</h2>
+<h3>Web Master Bilgileri</h3>
+<p>@ViewBag.id</p>
+<p>@ViewBag.Ad</p>
+<p>@ViewBag.Soyad</p>
+
+<h2>Web Master  ViewbagMaster ile Gelen</h2>
+<p>@ViewBag.Master.id</p>
+<p>@ViewBag.Master.Ad</p>
+<p>@ViewBag.Master.Soyad</p>
+
+<h2>Web Master Model ile Data Taşıma</h2>
+<p>@Model.id</p>
+<p>@Model.Ad</p>
+<p>@Model.Soyad</p>
+

@@ -1,0 +1,29 @@
+﻿@model List<MvcCategories.Models.ProductsModel>
+@{
+    ViewBag.Title = "Liste";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+<h2>Product Liste</h2>
+
+<table class="table table-hover table-danger">
+    <thead>
+        <tr class="table-warning">
+            <th>Ürün Id</th>
+            <th>Ürün Ad</th>
+            <th>Kategori</th>
+            <th>Birim Fiyat</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {<tr>
+        <td>@item.ProductId</td>
+        <td>@item.ProductName</td>
+        <td>@item.CategoryName</td>
+        <td>@item.UnitPrice</td>
+        </tr>
+
+        }
+    </tbody>
+</table>

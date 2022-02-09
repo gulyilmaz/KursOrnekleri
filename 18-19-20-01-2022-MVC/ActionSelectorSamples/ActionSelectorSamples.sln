@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionSelectorSamples", "ActionSelectorSamples\ActionSelectorSamples.csproj", "{8B21D601-6671-445B-9B22-9DF6988FD894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomActionSelector", "CustomActionSelector\CustomActionSelector.csproj", "{9623F4ED-4627-4524-8AB4-7948D8994983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B21D601-6671-445B-9B22-9DF6988FD894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B21D601-6671-445B-9B22-9DF6988FD894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B21D601-6671-445B-9B22-9DF6988FD894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B21D601-6671-445B-9B22-9DF6988FD894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9623F4ED-4627-4524-8AB4-7948D8994983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9623F4ED-4627-4524-8AB4-7948D8994983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9623F4ED-4627-4524-8AB4-7948D8994983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9623F4ED-4627-4524-8AB4-7948D8994983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9AF1918-B752-4E11-8DC1-0B305DD6DB4F}
+	EndGlobalSection
+EndGlobal

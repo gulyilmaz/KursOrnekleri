@@ -1,0 +1,54 @@
+﻿
+@{
+    Layout = null;
+}
+@{ 
+    var a = 12;
+    var b = 6;
+    var numbers = new List<int> { 1, 3, 5, 7 };
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style>
+        .red{
+            color:red
+        }
+        .blue{
+            color:blue
+        }
+    </style>
+</head>
+<body>
+    @{ 
+        var cssclass = a % b == 0 ? "red" : "blue";
+    }
+    <div class="@cssclass">
+        @a
+        <br />
+        @b
+        @foreach (var item in numbers)
+        {
+            @item
+            <br />
+        }
+        @for (int i = 0; i < 5; i++)
+        {
+            @*<text> Gül yılmaz</text>*@
+            @:Gül yılmaz
+            <br />
+        }
+        @if (true)
+        {
+            var toplam = a + b;
+            <div>@toplam</div>
+        }
+        Toplam:@a+@b
+        Toplam:@(a+b)
+    </div>
+</body>
+</html>

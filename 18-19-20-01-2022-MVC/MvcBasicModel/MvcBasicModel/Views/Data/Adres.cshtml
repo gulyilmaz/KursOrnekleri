@@ -1,0 +1,14 @@
+﻿@model List<Adres>
+@{
+    ViewBag.Title = "Adres";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+<h2>Adres listesi</h2>
+<ul>
+    @foreach (var item in Model)
+    {
+    <li>@item.ID-@item.sehirismi</li> 
+    
+    }
+</ul>

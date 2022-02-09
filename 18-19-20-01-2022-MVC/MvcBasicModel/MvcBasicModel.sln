@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcBasicModel", "MvcBasicModel\MvcBasicModel.csproj", "{B4E5049C-EBFA-442C-BF13-2E2B99928353}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcLayout", "MvcLayout\MvcLayout.csproj", "{7100CF9F-E386-41ED-88BD-23FC6434DA46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4E5049C-EBFA-442C-BF13-2E2B99928353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E5049C-EBFA-442C-BF13-2E2B99928353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E5049C-EBFA-442C-BF13-2E2B99928353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E5049C-EBFA-442C-BF13-2E2B99928353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7100CF9F-E386-41ED-88BD-23FC6434DA46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7100CF9F-E386-41ED-88BD-23FC6434DA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7100CF9F-E386-41ED-88BD-23FC6434DA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7100CF9F-E386-41ED-88BD-23FC6434DA46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {611801E0-07D6-4783-93C9-C949BACD2401}
+	EndGlobalSection
+EndGlobal

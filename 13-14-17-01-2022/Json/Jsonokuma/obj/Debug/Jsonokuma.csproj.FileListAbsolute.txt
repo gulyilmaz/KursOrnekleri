@@ -1,0 +1,10 @@
+C:\Users\SEM\source\repos\Json\Jsonokuma\bin\Debug\Jsonokuma.exe.config
+C:\Users\SEM\source\repos\Json\Jsonokuma\bin\Debug\Jsonokuma.exe
+C:\Users\SEM\source\repos\Json\Jsonokuma\bin\Debug\Jsonokuma.pdb
+C:\Users\SEM\source\repos\Json\Jsonokuma\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SEM\source\repos\Json\Jsonokuma\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SEM\source\repos\Json\Jsonokuma\obj\Debug\Jsonokuma.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\Json\Jsonokuma\obj\Debug\Jsonokuma.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\Json\Jsonokuma\obj\Debug\Jsonokuma.csproj.CopyComplete
+C:\Users\SEM\source\repos\Json\Jsonokuma\obj\Debug\Jsonokuma.exe
+C:\Users\SEM\source\repos\Json\Jsonokuma\obj\Debug\Jsonokuma.pdb

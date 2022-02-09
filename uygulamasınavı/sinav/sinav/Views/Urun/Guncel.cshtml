@@ -1,0 +1,74 @@
+﻿@model sinav.Models.ProductsModelView
+
+@{
+    ViewBag.Title = "Guncel";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal" style="margin-top:50px">
+       
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <article class="col-lg-6">
+            <figure class="tm-person">
+                <img src="~/Content/img/gallery/@Model.Urunler.UrunResim" alt="Image" class="img-fluid tm-person-img" />
+                <figcaption class="tm-person-description">
+
+
+
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Urunler.UrunAd, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.Urunler.UrunAd, new { htmlAttributes = new { @class = "form-control" } })
+
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Urunler.UrunAciklama, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.Urunler.UrunAciklama, new { htmlAttributes = new { @class = "form-control" } })
+
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Urunler.UrunResim, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.Urunler.UrunResim, new { htmlAttributes = new { @class = "form-control" } })
+
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Kategoriler.KategoriAd, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.DropDownListFor(model => model.Kategoriler.KategoriId, Model.KategoriForDropdown, new { htmlAttributes = new { @class = "form-control" } })
+
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Save" class="btn btn-success" />
+                        </div>
+                    </div>
+
+
+
+
+                </figcaption>
+   
+    </figure>
+    </article>
+
+
+    
+
+    </div>
+}
+
+@*<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>*@

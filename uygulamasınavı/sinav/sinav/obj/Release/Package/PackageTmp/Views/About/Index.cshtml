@@ -1,0 +1,40 @@
+﻿@model sinav.Models.ProductsModelView
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<header class="row tm-welcome-section">
+    <h2 class="col-12 text-center tm-section-title">Gizli Bahçe Ailemiz</h2>
+    <p class="col-12 text-center">
+        İstanbul, Türk mutfağının eşsiz lezzetlerinden tüm dünya mutfaklarına kadar dünya çapında sayısız güzellikte ve kalitede hizmet veren çalışan bilgilerimize aşağıdan ulaşabilirsiniz
+
+    </p>
+</header>
+
+<div class="tm-container-inner tm-persons">
+    <div class="row">
+        @foreach (var item in Model.Hlist)
+        {
+            <article class="col-lg-6">
+                <figure class="tm-person">
+                    <img src="~/Content/img/@item.resim" alt="Image" class="img-fluid tm-person-img" />
+                    <figcaption class="tm-person-description">
+                        <h4 class="tm-person-name">@item.isim</h4>
+                        <p class="tm-person-title">@item.görev</p>
+                        <p class="tm-person-about">
+                            @item.aciklama
+                        </p>
+                        <div>
+                            <a href="https://fb.com" class="tm-social-link"><i class="fab fa-facebook tm-social-icon"></i></a>
+                            <a href="https://twitter.com" class="tm-social-link"><i class="fab fa-twitter tm-social-icon"></i></a>
+                            <a href="https://instagram.com" class="tm-social-link"><i class="fab fa-instagram tm-social-icon"></i></a>
+                        </div>
+                    </figcaption>
+                </figure>
+            </article>
+        }
+
+
+    </div>
+</div>

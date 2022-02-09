@@ -1,0 +1,23 @@
+﻿@model CodeFirstKisiler.Models.Adres
+
+@{
+    ViewBag.Title = "Sil";
+}
+
+<h2>Sil</h2>
+
+<h3>Kişiyi Silmek istediğinize emin misiniz?</h3>
+<table>
+  
+    <tr>
+        <td>Adres Tanımı</td>
+        <td>@Model.AdresTanim</td>
+    </tr>
+   
+</table>
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        <input type="submit" value="Sil" class="btn btn-danger" />
+    </div>
+}

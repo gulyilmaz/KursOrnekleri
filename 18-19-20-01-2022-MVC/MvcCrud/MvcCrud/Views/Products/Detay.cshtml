@@ -1,0 +1,73 @@
+﻿@model MvcCrud.Models.Dto.ProductsModel
+
+@{
+    ViewBag.Title = "Detay";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+<h2>Ürün Detayı</h2>
+
+<div>
+    <h4>Ürünler</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(m => m.Products.ProductID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(m => m.Products.ProductID)
+        </dd>
+
+
+        <dt>
+            @Html.DisplayNameFor(m => m.Products.ProductName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(m => m.Products.ProductName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(m => m.Products.CategoryID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(m => m.Products.CategoryID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(m => m.Products.SupplierID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(m => m.Products.SupplierID)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(m => m.Products.QuantityPerUnit)
+        </dt>
+        <dd>
+            @Html.DisplayFor(m => m.Products.QuantityPerUnit)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(m => m.Products.UnitPrice)
+        </dt>
+        <dd>
+            @Html.DisplayFor(m => m.Products.UnitPrice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(m => m.Products.UnitsInStock)
+        </dt>
+        <dd>
+            @Html.DisplayFor(m => m.Products.UnitsInStock)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(m => m.Products.Discontinued)
+        </dt>
+        <dd>
+            @Html.DisplayFor(m => m.Products.Discontinued)
+        </dd>
+    </dl>
+</div>
+<p>
+    @*@Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |*@
+    @Html.ActionLink("Listeye Geri Dön", "Liste")
+</p>

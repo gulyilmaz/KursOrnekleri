@@ -1,0 +1,31 @@
+﻿
+@{
+    Layout = null;
+    var numbers = (int[])ViewData["numbers"];
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        Home Controller -Index view
+        <br />
+        @ViewBag.message
+        <br />
+        @ViewData["mesaj"]
+
+        @foreach (var item in numbers)
+        {
+            @item
+        }
+        @if (TempData["message"] != null) {
+            @TempData["message"]
+        }
+    </div>
+</body>
+</html>

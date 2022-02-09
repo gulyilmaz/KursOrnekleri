@@ -1,0 +1,59 @@
+﻿@model sinav.Models.ProductsModelView
+@{ ViewBag.kategori = ViewBag.kategori != null ? ViewBag.kategori : "";
+    ViewBag.Title = "Detay";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="tm-container-inner tm-persons">
+    <div class="row">
+        <div class="col-lg-4  tm-paging-links" style="margin-top:5px">
+            <nav>
+                <ul>
+                    @*<li><a href="#" class="tm-paging-link active">Tümü</a></li>*@
+                    @foreach (var item in Model.Klist)
+                    {
+                        if (ViewBag.kategori == item.KategoriAd)
+                        {
+                            <li style="list-style:none"><a href="#" class="tm-paging-link active">@item.KategoriAd</a></li>
+                        }
+                        else
+                        {
+                            <li style="list-style:none;"><a href="#" class="tm-paging-link  " >@item.KategoriAd</a></li>
+                        }
+                    }
+                    @*<li class="tm-paging-item"><a href="#" class="tm-paging-link active">Pizza</a></li>
+                        <li class="tm-paging-item"><a href="#" class="tm-paging-link">Salad</a></li>
+                        <li class="tm-paging-item"><a href="#" class="tm-paging-link">Noodle</a></li>*@
+                </ul>
+            </nav>
+        </div>
+
+        <article class="col-lg-6">
+            <figure class="tm-person">
+                <img src="~/Content/img/gallery/@Model.Urunler.UrunResim" alt="Image" class="img-fluid tm-person-img" />
+                <figcaption class="tm-person-description">
+                    <h4 class="tm-person-name">@Model.Urunler.UrunAd</h4>
+                    <p class="tm-person-title">@Model.Urunler.Kategori.KategoriAd</p>
+
+                    <p class="tm-person-about">
+                        @Model.Urunler.UrunAciklama
+                    </p> <p class="tm-person-about">
+                        @string.Format("{0:C1}", Model.Urunler.Fiyat)
+                    </p>
+                   
+
+                </figcaption>
+                <figcaption>
+                    <a href="/Urun/Guncel/@Model.Urunler.UrunId">
+                        <i class="fas fa-pen-alt text text-success"></i></a>
+                    <a href="/Urun/Sil/@Model.Urunler.UrunId"> <i class="fas fa-trash-alt"></i></a>
+</figcaption>
+            </figure>
+        </article>
+       
+
+
+    </div>
+</div>
+
