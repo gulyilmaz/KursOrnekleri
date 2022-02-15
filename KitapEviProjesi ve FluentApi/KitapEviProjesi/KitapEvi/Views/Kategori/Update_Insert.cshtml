@@ -1,0 +1,68 @@
+﻿@model KitapEvi_Models.Models.Kategori
+@{
+    var title = "Kategori Oluştur";
+}
+
+<form method="post">
+    <div class="row p-3 border">
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+<input type="hidden" asp-for="KategoriID"/>
+        @if(Model.KategoriID !=0)
+        {
+            //edit işlemi
+            title = "Kategori Düzenle";
+        }
+         <div class="col-12 border-bottom">
+             <h2 class="text-primary">@title</h2>
+         </div>
+
+        <div class="col-8 pt-4">
+            <div class="row form-group">
+                <div class="col-4">
+                    <label asp-for="KategoriAd"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="KategoriAd" class="form-control"/>
+                    <span asp-validation-for="KategoriAd" class=" text-danger"></span> 
+                </div>
+
+
+            </div>
+
+            <div class="row form-group">
+                <div class="col-4 offset-4">
+                    @if (Model.KategoriID != 0)
+                    {
+                        <button type="submit" class="btn btn-primary form-control">Güncelle</button>
+                    }
+
+                    else
+                    {
+
+                        <button type="submit" class="btn btn-primary form-control">Kategori Oluştur</button>
+                    }
+
+                </div>
+                <div class="col-4">
+                    <a asp-action="Index" class="btn btn-success form-control">Listeye Geri Dön</a>
+                </div>
+
+
+
+            </div>
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+    </div>
+
+
+</form>

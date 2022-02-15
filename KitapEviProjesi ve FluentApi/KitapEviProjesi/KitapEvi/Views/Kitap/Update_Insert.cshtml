@@ -1,0 +1,86 @@
+﻿@model KitapEvi_Models.Models.ViewsModel.KitapVM
+@{
+  var  title = "Kitap Oluştur";
+}
+
+<form method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <input type="hidden" asp-for="Kitap.KitapID" />
+    @if (Model.Kitap != null) {
+        title = "Kitap Düzenle";
+    }
+    <div class="col-12 border-bottom">
+        <h2 class="text-primary">@title</h2>
+    </div>
+    <div class="col-8 p-4">
+        <div class="form-group row">
+            <div class="col-4">
+                <label asp-for="Kitap.KitapAdi"></label>
+            </div>
+            <div class="col-8">
+                <input asp-for="Kitap.KitapAdi" class="form-control" />
+                <span asp-validation-for="Kitap.KitapAdi" class="text-danger"></span>
+
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-4">
+                <label asp-for="Kitap.ISBN"></label>
+            </div>
+            <div class="col-8">
+                <input asp-for="Kitap.ISBN" class="form-control" />
+                <span asp-validation-for="Kitap.ISBN" class="text-danger"></span>
+
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-4">
+                <label asp-for="Kitap.Fiyat"></label>
+            </div>
+            <div class="col-8">
+                <input asp-for="Kitap.Fiyat" class="form-control" />
+                <span asp-validation-for="Kitap.Fiyat" class="text-danger"></span>
+
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-4">
+                <label asp-for="Kitap.YayineviID"></label>
+            </div>
+            <div class="col-8">
+                @Html.DropDownListFor(x => x.Kitap.YayineviID, Model.Yayinevilistesi, "**Yayın Evi Seçiniz **", new { @class = "form-control" })
+                <span asp-validation-for="Kitap.YayineviID" class="text-danger"></span>
+
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-4">
+                <label asp-for="Kitap.KategoriID"></label>
+            </div>
+            <div class="col-8">
+                @Html.DropDownListFor(x => x.Kitap.KategoriID, Model.KategoriListesi, "**Kategori Seçiniz **", new { @class = "form-control" })
+                <span asp-validation-for="Kitap.KategoriID" class="text-danger"></span>
+
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-4 ">
+                @if (Model.Kitap == null)
+                {
+                    <button type="submit" class="btn btn-primary form-control">Oluştur</button>
+                }
+                else
+                {
+                    <button type="submit" class="btn btn-primary form-control">Güncelle</button>
+
+                }
+            </div>
+            <div class="col-8">
+                <a asp-action="Index" class="btn btn-success form-control">Listeye Geri Dön</a>
+
+            </div>
+        </div>
+
+    </div>
+
+</form>

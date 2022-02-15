@@ -1,0 +1,12 @@
+C:\Users\SEM\source\repos\KitapEviProjesi\KitapEvi_Models\bin\Debug\net5.0\KitapEvi_Models.deps.json
+C:\Users\SEM\source\repos\KitapEviProjesi\KitapEvi_Models\bin\Debug\net5.0\KitapEvi_Models.dll
+C:\Users\SEM\source\repos\KitapEviProjesi\KitapEvi_Models\bin\Debug\net5.0\ref\KitapEvi_Models.dll
+C:\Users\SEM\source\repos\KitapEviProjesi\KitapEvi_Models\bin\Debug\net5.0\KitapEvi_Models.pdb
+C:\Users\SEM\source\repos\KitapEviProjesi\KitapEvi_Models\obj\Debug\net5.0\KitapEvi_Models.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\KitapEviProjesi\KitapEvi_Models\obj\Debug\net5.0\KitapEvi_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEM\source\repos\KitapEviProjesi\KitapEvi_Models\obj\Debug\net5.0\KitapEvi_Models.AssemblyInfoInputs.cache
+C:\Users\SEM\source\repos\KitapEviProjesi\KitapEvi_Models\obj\Debug\net5.0\KitapEvi_Models.AssemblyInfo.cs
+C:\Users\SEM\source\repos\KitapEviProjesi\KitapEvi_Models\obj\Debug\net5.0\KitapEvi_Models.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\KitapEviProjesi\KitapEvi_Models\obj\Debug\net5.0\KitapEvi_Models.dll
+C:\Users\SEM\source\repos\KitapEviProjesi\KitapEvi_Models\obj\Debug\net5.0\ref\KitapEvi_Models.dll
+C:\Users\SEM\source\repos\KitapEviProjesi\KitapEvi_Models\obj\Debug\net5.0\KitapEvi_Models.pdb

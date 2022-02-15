@@ -1,0 +1,93 @@
+﻿@model KitapEvi_Models.Models.Yazar
+@{
+    var title = "Yazar Oluştur";
+}
+
+<form method="post">
+    <div class="row border p-3">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <input type="hidden" asp-for="YazarID" />
+        @if (Model.YazarID != 0)
+        {
+            title = "Yazar Düzenle";
+        }
+        <div class="col-12 border-bottom">
+            <h2 class="text-primary">@title</h2>
+        </div>
+        <div class="col-8 p-4">
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="YazarAd"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="YazarAd" class="form-control" />
+                    <span asp-validation-for="YazarAd" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="YazarSoyad"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="YazarSoyad" class="form-control" />
+                    <span asp-validation-for="YazarSoyad" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Dogumtarihi"></label>
+                </div>
+                <div class="col-8">
+                    @if (Model.YazarID != 0)
+                    {
+                        <input asp-for="Dogumtarihi" placeholder="mm/dd/yyyy" type="text" id="datepicker_dt" class="form-control" />
+                    }
+                    else
+                    {
+                        <input asp-for="Dogumtarihi" placeholder="mm/dd/yyyy" type="text" id="datepicker_dt" class="form-control" />
+                    }
+
+                    <span asp-validation-for="Dogumtarihi" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Lokasyon"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Lokasyon" class="form-control" />
+                    <span asp-validation-for="Lokasyon" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4 offset-4">
+                    @if (Model.YazarID != 0)
+                    {
+                        <button type="submit" class="btn btn-primary form-control">Güncelle</button>
+                    }
+                    else
+                    {
+                        <button type="submit" class="btn btn-primary form-control">Yazar Ekle</button>
+                    }
+                </div>
+                <div class="col-4">
+                    <a asp-action="Index" class="btn btn-success form-control">Listeye Geri Dön</a>
+                </div>
+
+
+
+            </div>
+
+        </div>
+    </div>
+</form>
+
+@section Scripts
+{
+    <script>
+        $(function () {
+            $("#datepicker_dt").datepicker({});
+        });
+    </script>
+
+}

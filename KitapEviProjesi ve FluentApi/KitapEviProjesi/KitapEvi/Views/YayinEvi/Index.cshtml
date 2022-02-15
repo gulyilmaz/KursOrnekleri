@@ -1,0 +1,58 @@
+﻿@model IEnumerable<KitapEvi_Models.Models.Yayinevi>
+
+    <div class="border p-4 bg-white">
+        <div class="row">
+            <div class="col-10">
+                <h2 class="text-info">YayınEvi Listesi</h2>
+            </div>
+            <div class="col-2">
+
+                <a class="btn btn-info form-control" asp-action="Update_Insert">Yayın Evi Ekle</a>
+            </div>
+
+
+
+
+        </div>
+
+
+
+
+        <div>
+            @if (Model.Count() > 0)
+            {
+
+                <table class="table table-striped border">
+                    <tbody>
+                        <tr class="table-secondary">
+
+                            <th>Yayın Evi</th>
+                            <th>Lokasyon</th>
+                            <th></th>
+                        </tr>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.YayinEviAdi</td>
+                                <td>@item.Lokasyon</td>
+                                <td>
+                                    <a class="btn btn-primary text-white" asp-action="Update_Insert" asp-route-id="@item.YayineviID">Düzenle</a>
+                                    <a class="btn btn-danger text-white" asp-action="Delete" asp-route-id="@item.YayineviID">Sil</a>
+                                </td>
+                            </tr>
+
+                        }
+
+
+                    </tbody>
+
+
+                </table>
+            }
+
+            else
+            {
+                <p>Kayıt Bulunamadı....</p>
+            }
+        </div>
+    </div>
